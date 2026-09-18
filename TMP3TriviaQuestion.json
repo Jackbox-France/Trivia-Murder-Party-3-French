@@ -1,0 +1,1843 @@
+﻿{
+ "content": [
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Britney Spears"
+    },
+    {
+     "correct": false,
+     "text": "Ryan Gosling"
+    },
+    {
+     "correct": true,
+     "text": "Mandy Moore"
+    },
+    {
+     "correct": false,
+     "text": "Justin Timberlake"
+    }
+   ],
+   "countrySpecific": true,
+   "difficulty": "NORMAL",
+   "id": "104538",
+   "outro": "",
+   "question": "Who was NOT in the 1993 cast of the All New Mickey Mouse Club?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "[i]Snow White & the Seven Dwarfs[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Pinocchio[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Dumbo[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Victory Through Air Power[/i]"
+    }
+   ],
+   "difficulty": "NORMAL",
+   "id": "105036",
+   "outro": "",
+   "question": "What was Disney’s first feature-length animated film?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Great Smoky Mountains"
+    },
+    {
+     "correct": false,
+     "text": "Grand Canyon"
+    },
+    {
+     "correct": false,
+     "text": "Joshua Tree"
+    },
+    {
+     "correct": false,
+     "text": "Yellowstone"
+    }
+   ],
+   "countrySpecific": true,
+   "difficulty": "HARD",
+   "id": "105610",
+   "outro": "",
+   "question": "What is the most popular U.S. National Park?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "architecture"
+    },
+    {
+     "correct": true,
+     "text": "ballroom dance"
+    },
+    {
+     "correct": false,
+     "text": "painting"
+    },
+    {
+     "correct": false,
+     "text": "sculpture"
+    }
+   ],
+   "difficulty": "HARD",
+   "id": "106015",
+   "outro": "",
+   "question": "What was NOT once an Olympic competition?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Athens"
+    },
+    {
+     "correct": false,
+     "text": "Troy"
+    },
+    {
+     "correct": true,
+     "text": "Ithaca"
+    },
+    {
+     "correct": false,
+     "text": "Mycenae"
+    }
+   ],
+   "difficulty": "NORMAL",
+   "id": "106129",
+   "outro": "",
+   "question": "Where was Odysseus trying to get back to in [i]The Odyssey[/i]?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "1"
+    },
+    {
+     "correct": true,
+     "text": "2"
+    },
+    {
+     "correct": false,
+     "text": "3"
+    },
+    {
+     "correct": false,
+     "text": "4"
+    }
+   ],
+   "difficulty": "NORMAL",
+   "id": "106229",
+   "outro": "",
+   "question": "In a soccer match, how many yellow cards can you get before you’re ejected from the game?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "albatross"
+    },
+    {
+     "correct": true,
+     "text": "snowman"
+    },
+    {
+     "correct": false,
+     "text": "pigeon"
+    },
+    {
+     "correct": false,
+     "text": "fried egg"
+    }
+   ],
+   "difficulty": "HARD",
+   "id": "106419",
+   "outro": "",
+   "question": "In golf, what’s it called when someone scores eight strokes on a hole?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Ella Emhoff"
+    },
+    {
+     "correct": false,
+     "text": "Meghan McCain"
+    },
+    {
+     "correct": true,
+     "text": "Malia Obama"
+    },
+    {
+     "correct": false,
+     "text": "Jenna Bush Hager"
+    }
+   ],
+   "countrySpecific": true,
+   "difficulty": "NORMAL",
+   "id": "106436",
+   "outro": "",
+   "question": "Which political nepo baby wrote on the Amazon Prime show [i]Swarm[/i]?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Vancouver Grizzlies"
+    },
+    {
+     "correct": false,
+     "text": "Calgary Oilers"
+    },
+    {
+     "correct": false,
+     "text": "Ottawa Councilmen"
+    },
+    {
+     "correct": true,
+     "text": "Toronto Arenas"
+    }
+   ],
+   "countrySpecific": false,
+   "difficulty": "HARD",
+   "id": "106491",
+   "outro": "",
+   "question": "Who played in the first-ever NHL game in 1917?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Allyson Felix"
+    },
+    {
+     "correct": false,
+     "text": "Florence Griffith Joyner"
+    },
+    {
+     "correct": true,
+     "text": "Shelly-Ann Fraser-Pryce"
+    },
+    {
+     "correct": false,
+     "text": "Sha’Carri Richardson"
+    }
+   ],
+   "difficulty": "HARD",
+   "id": "106505",
+   "outro": "",
+   "question": "Which sprinter has won the most world championship titles in the 100 meter event?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "rabbit punch"
+    },
+    {
+     "correct": true,
+     "text": "anchor punch"
+    },
+    {
+     "correct": false,
+     "text": "kidney punch"
+    },
+    {
+     "correct": false,
+     "text": "hitting on the break"
+    }
+   ],
+   "difficulty": "NORMAL",
+   "id": "106515",
+   "outro": "",
+   "question": "Which punch is legal in boxing?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "college navy"
+    },
+    {
+     "correct": true,
+     "text": "Honolulu blue"
+    },
+    {
+     "correct": false,
+     "text": "deep cerulean"
+    },
+    {
+     "correct": false,
+     "text": "cobalt rising"
+    }
+   ],
+   "countrySpecific": true,
+   "difficulty": "HARD",
+   "id": "106537",
+   "outro": "",
+   "question": "What is the name of the specific shade of blue used by the Detroit Lions?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Wellerman[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Billy o’ Tea[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]HMS Tunyan[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Bullyboy[/i]"
+    }
+   ],
+   "difficulty": "HARD",
+   "id": "106539",
+   "outro": "",
+   "question": "What was the name of the ship in the sea shanty “Wellerman”?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Chicago"
+    },
+    {
+     "correct": false,
+     "text": "Atlanta"
+    },
+    {
+     "correct": false,
+     "text": "Brooklyn"
+    },
+    {
+     "correct": false,
+     "text": "San Francisco"
+    }
+   ],
+   "difficulty": "NORMAL",
+   "id": "106580",
+   "outro": "",
+   "question": "In which city does the sitcom character Steve Urkel reside?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Nike Air Jordans"
+    },
+    {
+     "correct": false,
+     "text": "Olympic Gold Dan Gable Adidas"
+    },
+    {
+     "correct": false,
+     "text": "The Puma Clyde"
+    },
+    {
+     "correct": true,
+     "text": "Converse Chuck Taylor All Stars"
+    }
+   ],
+   "difficulty": "NORMAL",
+   "id": "106587",
+   "outro": "",
+   "question": "What was the first celebrity-endorsed sneaker?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "James Franco"
+    },
+    {
+     "correct": false,
+     "text": "Jonah Hill"
+    },
+    {
+     "correct": false,
+     "text": "Paul Rudd"
+    },
+    {
+     "correct": true,
+     "text": "Jason Segel"
+    }
+   ],
+   "countrySpecific": true,
+   "difficulty": "HARD",
+   "id": "106791",
+   "outro": "",
+   "question": "Who played Nick Andopolis on [i]Freaks and Geeks[/i]?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "“Call me Ishmael.”"
+    },
+    {
+     "correct": true,
+     "text": "“It was the best of times...”"
+    },
+    {
+     "correct": false,
+     "text": "“I am an invisible man.”"
+    },
+    {
+     "correct": false,
+     "text": "“Mother died today.”"
+    }
+   ],
+   "difficulty": "EASY",
+   "id": "106792",
+   "outro": "",
+   "question": "What is the first line of [i]A Tale of Two Cities[/i]?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Grover Cleveland"
+    },
+    {
+     "correct": false,
+     "text": "Theodore Roosevelt"
+    },
+    {
+     "correct": false,
+     "text": "John F. Kennedy"
+    },
+    {
+     "correct": true,
+     "text": "Jimmy Carter"
+    }
+   ],
+   "countrySpecific": true,
+   "difficulty": "HARD",
+   "id": "106801",
+   "outro": "",
+   "question": "Who was the first U.S. President to be born in a hospital?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Ichiro Suzuki"
+    },
+    {
+     "correct": true,
+     "text": "Alex Rodriguez"
+    },
+    {
+     "correct": false,
+     "text": "Albert Pujols"
+    },
+    {
+     "correct": false,
+     "text": "Sammy Sosa"
+    }
+   ],
+   "countrySpecific": true,
+   "difficulty": "NORMAL",
+   "id": "106894",
+   "outro": "",
+   "question": "Which baseball player retired in 2016?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "20 hot air balloons"
+    },
+    {
+     "correct": false,
+     "text": "2 giraffes"
+    },
+    {
+     "correct": true,
+     "text": "300 pigeons"
+    },
+    {
+     "correct": false,
+     "text": "Lucille Ball"
+    }
+   ],
+   "countrySpecific": true,
+   "difficulty": "HARD",
+   "id": "107016",
+   "outro": "",
+   "question": "A marching band performed at the first-ever Super Bowl Halftime Show, along with..."
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Jim Thorpe"
+    },
+    {
+     "correct": true,
+     "text": "Ed Smith"
+    },
+    {
+     "correct": false,
+     "text": "Cal Hubbard"
+    },
+    {
+     "correct": false,
+     "text": "Dutch Clark"
+    }
+   ],
+   "countrySpecific": true,
+   "difficulty": "HARD",
+   "id": "107252",
+   "outro": "",
+   "question": "Which football player modeled the pose seen on the Heisman Trophy?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "the Zodiac Killer"
+    },
+    {
+     "correct": false,
+     "text": "the Killer Clown"
+    },
+    {
+     "correct": false,
+     "text": "the Night Stalker"
+    },
+    {
+     "correct": true,
+     "text": "the Unabomber"
+    }
+   ],
+   "countrySpecific": true,
+   "difficulty": "NORMAL",
+   "id": "107346",
+   "outro": "Couldn’t really get into his manifesto, sorry. I loooove texting!",
+   "question": "Who was Theodore Kaczynski?",
+   "x": true
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Robert Frost"
+    },
+    {
+     "correct": false,
+     "text": "Pablo Neruda"
+    },
+    {
+     "correct": true,
+     "text": "Edgar Allan Poe"
+    },
+    {
+     "correct": false,
+     "text": "Walt Whitman"
+    }
+   ],
+   "difficulty": "HARD",
+   "id": "107516",
+   "outro": "It’s like I’ve always said: life’s too short not to marry your hot cousin.",
+   "question": "Which poet married his first cousin?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Patrick Stewart"
+    },
+    {
+     "correct": true,
+     "text": "William Shatner"
+    },
+    {
+     "correct": false,
+     "text": "George Takei"
+    },
+    {
+     "correct": false,
+     "text": "Chris Pine"
+    }
+   ],
+   "difficulty": "NORMAL",
+   "id": "107770",
+   "outro": "",
+   "question": "Which [i]Star Trek[/i] actor went to space for real in 2021?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Zephyrus"
+    },
+    {
+     "correct": true,
+     "text": "Boreas"
+    },
+    {
+     "correct": false,
+     "text": "Notus"
+    },
+    {
+     "correct": false,
+     "text": "Eurus"
+    }
+   ],
+   "difficulty": "HARD",
+   "id": "108264",
+   "outro": "",
+   "question": "In ancient Greece, who was the god of the north wind?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Caitlin Clark"
+    },
+    {
+     "correct": false,
+     "text": "Lisa Leslie"
+    },
+    {
+     "correct": true,
+     "text": "Diana Taurasi"
+    },
+    {
+     "correct": false,
+     "text": "Candace Parker"
+    }
+   ],
+   "countrySpecific": true,
+   "difficulty": "HARD",
+   "id": "108361",
+   "outro": "I’m yelling “KISS! KISS!” at my TV every time I watch sports. Sometimes it works!",
+   "question": "Which legendary WNBA player once kissed an opposing player on the lips during a playoff game?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "skull and crossbones"
+    },
+    {
+     "correct": false,
+     "text": "scissors"
+    },
+    {
+     "correct": false,
+     "text": "bomb with lit fuse"
+    },
+    {
+     "correct": false,
+     "text": "airplane"
+    }
+   ],
+   "difficulty": "HARD",
+   "id": "108493",
+   "outro": "",
+   "question": "What appears if you type a capital N in the Wingdings font?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Human Giant"
+    },
+    {
+     "correct": false,
+     "text": "Key and Peele"
+    },
+    {
+     "correct": true,
+     "text": "The State"
+    },
+    {
+     "correct": false,
+     "text": "The Kids in the Hall"
+    }
+   ],
+   "countrySpecific": true,
+   "difficulty": "HARD",
+   "id": "108571",
+   "outro": "",
+   "question": "Which sketch comedy group had the most people in it?",
+   "x": false
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Batman"
+    },
+    {
+     "correct": true,
+     "text": "Superman"
+    },
+    {
+     "correct": false,
+     "text": "Spider-Man"
+    },
+    {
+     "correct": false,
+     "text": "Arm-Fall-Off Boy"
+    }
+   ],
+   "difficulty": "NORMAL",
+   "id": "108584",
+   "outro": "His name is Kal-El. His other son is named “Not the bees! Not the bees! AHHHHHHHHHHHH!!!!!!!!”",
+   "question": "Which superhero did Nicolas Cage name his son after?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Escape from New York[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Road House[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Lethal Weapon[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Predator[/i]"
+    }
+   ],
+   "difficulty": "NORMAL",
+   "id": "108605",
+   "outro": "",
+   "question": "Which classic ’80s movie was remade in 2024 with Jake Gyllenhaal & Conor McGregor?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "fencing"
+    },
+    {
+     "correct": false,
+     "text": "tennis"
+    },
+    {
+     "correct": false,
+     "text": "volleyball"
+    },
+    {
+     "correct": true,
+     "text": "badminton"
+    }
+   ],
+   "difficulty": "HARD",
+   "id": "108897",
+   "outro": "",
+   "question": "Which sport was added to the Olympics most recently?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "skibidi"
+    },
+    {
+     "correct": true,
+     "text": "droog"
+    },
+    {
+     "correct": false,
+     "text": "fleek"
+    },
+    {
+     "correct": false,
+     "text": "shagadelic"
+    }
+   ],
+   "difficulty": "NORMAL",
+   "id": "108905",
+   "outro": "",
+   "question": "Which slang term comes from [i]A Clockwork Orange[/i]?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "spikes protruding from spine"
+    },
+    {
+     "correct": true,
+     "text": "bodies covered in eyes"
+    },
+    {
+     "correct": false,
+     "text": "prehensile tails"
+    },
+    {
+     "correct": false,
+     "text": "razor-sharp teeth"
+    }
+   ],
+   "difficulty": "NORMAL",
+   "id": "109331",
+   "intro": {
+    "versions": [
+     {}
+    ]
+   },
+   "outro": "",
+   "question": "What is a feature of “biblically accurate” angels?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Mike Tyson"
+    },
+    {
+     "correct": false,
+     "text": "Joe Frazier"
+    },
+    {
+     "correct": true,
+     "text": "George Foreman"
+    },
+    {
+     "correct": false,
+     "text": "Rocky Marciano"
+    }
+   ],
+   "difficulty": "NORMAL",
+   "id": "109413",
+   "outro": "",
+   "question": "Who fought Muhammad Ali in the “Rumble in the Jungle”?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "“God Loves a Terrier”"
+    },
+    {
+     "correct": false,
+     "text": "“Amish Paradise”"
+    },
+    {
+     "correct": true,
+     "text": "“Big Bottom”"
+    },
+    {
+     "correct": false,
+     "text": "“Bubbe Made a Kishka”"
+    }
+   ],
+   "difficulty": "NORMAL",
+   "id": "109463",
+   "outro": "",
+   "question": "Select the Spinal Tap song."
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "[i]A Sunday on La Grande Jatte[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Nighthawks[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]The Last Supper[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]The Scream[/i]"
+    }
+   ],
+   "difficulty": "NORMAL",
+   "id": "109490",
+   "intro": {
+    "versions": [
+     {
+      "subtitle": "Art is subjective but you know what’s not? Art numbers."
+     }
+    ]
+   },
+   "outro": "",
+   "question": "Which famous painting depicts the most people?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "frontenis"
+    },
+    {
+     "correct": true,
+     "text": "cesta"
+    },
+    {
+     "correct": false,
+     "text": "pitton"
+    },
+    {
+     "correct": false,
+     "text": "tamburello"
+    }
+   ],
+   "difficulty": "HARD",
+   "id": "109499",
+   "outro": "",
+   "question": "In jai alai, what do you use to whip balls around at high speeds?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "George Washington"
+    },
+    {
+     "correct": false,
+     "text": "Ulysses S. Grant"
+    },
+    {
+     "correct": false,
+     "text": "John J. Pershing"
+    },
+    {
+     "correct": true,
+     "text": "George C. Marshall"
+    }
+   ],
+   "difficulty": "HARD",
+   "id": "111185",
+   "outro": "",
+   "question": "Who was NOT promoted to General of the Armies, the highest possible U.S. military rank?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Bobby Darin"
+    },
+    {
+     "correct": false,
+     "text": "Madonna"
+    },
+    {
+     "correct": false,
+     "text": "Billy Joel"
+    },
+    {
+     "correct": false,
+     "text": "Bob Dylan"
+    }
+   ],
+   "difficulty": "NORMAL",
+   "id": "112739",
+   "outro": "",
+   "question": "The 2025 Broadway musical [i]Just in Time[/i] is a jukebox musical centering whose music?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Yoda"
+    },
+    {
+     "correct": false,
+     "text": "Miss Piggy"
+    },
+    {
+     "correct": false,
+     "text": "Bert"
+    },
+    {
+     "correct": true,
+     "text": "Elmo"
+    }
+   ],
+   "difficulty": "NORMAL",
+   "id": "113275",
+   "outro": "",
+   "question": "Which of these characters did voice artist and puppeteer Frank Oz NOT portray?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "boxing"
+    },
+    {
+     "correct": false,
+     "text": "marathon running"
+    },
+    {
+     "correct": false,
+     "text": "wrestling"
+    },
+    {
+     "correct": true,
+     "text": "chariot racing"
+    }
+   ],
+   "difficulty": "NORMAL",
+   "id": "113554",
+   "outro": "",
+   "question": "Which sport might you have seen in an ancient Greek hippodrome?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Archimedes"
+    },
+    {
+     "correct": false,
+     "text": "Plato"
+    },
+    {
+     "correct": false,
+     "text": "Pythagoras"
+    },
+    {
+     "correct": false,
+     "text": "Julius Caesar"
+    }
+   ],
+   "difficulty": "NORMAL",
+   "id": "113941",
+   "outro": "If I come in there and you kids are disturbing my circles, I swear to God...",
+   "question": "Which Ancient Greek’s last words were “DO NOT DISTURB MY CIRCLES!”?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "bedposts"
+    },
+    {
+     "correct": false,
+     "text": "Christmas tree"
+    },
+    {
+     "correct": false,
+     "text": "sour apple"
+    },
+    {
+     "correct": false,
+     "text": "Cincinnati"
+    }
+   ],
+   "difficulty": "HARD",
+   "id": "113985",
+   "outro": "",
+   "question": "What do cool bowlers call it when they bowl a 7-10 split?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Michael Myers"
+    },
+    {
+     "correct": false,
+     "text": "Jason Voorhees"
+    },
+    {
+     "correct": false,
+     "text": "Ghostface"
+    },
+    {
+     "correct": false,
+     "text": "Chucky"
+    }
+   ],
+   "difficulty": "EASY",
+   "id": "114557",
+   "outro": "",
+   "question": "Who is the primary antagonist in the [i]Halloween[/i] franchise?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]The Pit and the Pendulum[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]I Am Legend[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]The Stand[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Rosemary’s Baby[/i]"
+    }
+   ],
+   "difficulty": "EASY",
+   "id": "114624",
+   "outro": "",
+   "question": "Which classic horror novel was written by Stephen King?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Mr. Big"
+    },
+    {
+     "correct": false,
+     "text": "Harry"
+    },
+    {
+     "correct": false,
+     "text": "Steve"
+    },
+    {
+     "correct": false,
+     "text": "Miranda"
+    }
+   ],
+   "difficulty": "EASY",
+   "id": "114636",
+   "outro": "",
+   "question": "Who does Carrie marry in the first [i]Sex and the City[/i] movie?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Jamba Juice"
+    },
+    {
+     "correct": false,
+     "text": "Bed Bath & Beyond"
+    },
+    {
+     "correct": false,
+     "text": "Starbucks"
+    },
+    {
+     "correct": true,
+     "text": "GameStop"
+    }
+   ],
+   "difficulty": "EASY",
+   "id": "114639",
+   "outro": "",
+   "question": "The film [i]Dumb Money[/i] recounts the 2021 short squeeze of which company’s stock?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "“Rosebud.”"
+    },
+    {
+     "correct": false,
+     "text": "“Babadook.”"
+    },
+    {
+     "correct": false,
+     "text": "“Corn.”"
+    },
+    {
+     "correct": false,
+     "text": "[fart noise]"
+    }
+   ],
+   "difficulty": "EASY",
+   "id": "114649",
+   "outro": "",
+   "question": "Which word does Charles Foster Kane utter with his dying breath in [i]Citizen Kane[/i]?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Halloween[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]The Birds[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]The Thing[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Psycho[/i]"
+    }
+   ],
+   "difficulty": "EASY",
+   "id": "114652",
+   "outro": "",
+   "question": "Which classic horror movie takes place at the Bates Motel?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Florida"
+    },
+    {
+     "correct": false,
+     "text": "Texas"
+    },
+    {
+     "correct": false,
+     "text": "New Mexico"
+    },
+    {
+     "correct": false,
+     "text": "Louisiana"
+    }
+   ],
+   "countrySpecific": true,
+   "difficulty": "NORMAL",
+   "id": "114696",
+   "outro": "And to this very day, old people love going to Florida.",
+   "question": "Which U.S. state did Juan Ponce de León discover while seeking the Fountain of Youth?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "their physical location"
+    },
+    {
+     "correct": false,
+     "text": "the size of the stage"
+    },
+    {
+     "correct": false,
+     "text": "the cost of the production"
+    },
+    {
+     "correct": true,
+     "text": "the number of audience seats"
+    }
+   ],
+   "countrySpecific": true,
+   "difficulty": "NORMAL",
+   "id": "114885",
+   "outro": "",
+   "question": "What’s the difference between a Broadway show and an off-Broadway show?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Italy and France"
+    },
+    {
+     "correct": false,
+     "text": "Argentina and Germany"
+    },
+    {
+     "correct": false,
+     "text": "Brazil and Ireland"
+    },
+    {
+     "correct": true,
+     "text": "England and Scotland"
+    }
+   ],
+   "difficulty": "HARD",
+   "id": "114906",
+   "outro": "",
+   "question": "Which two teams played in the first international soccer match in 1872?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "darts"
+    },
+    {
+     "correct": true,
+     "text": "pool"
+    },
+    {
+     "correct": false,
+     "text": "horseshoes"
+    },
+    {
+     "correct": false,
+     "text": "cornhole"
+    }
+   ],
+   "difficulty": "NORMAL",
+   "id": "115309",
+   "outro": "",
+   "question": "In [i]The Music Man[/i], what does Harold Hill warn River City about in “Ya Got Trouble”?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Hellraiser[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Weapons[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Paranormal Activity[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]The Black Phone[/i]"
+    }
+   ],
+   "difficulty": "NORMAL",
+   "id": "116478",
+   "outro": "",
+   "question": "Which of these films is a “found footage” horror movie?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]The Substance[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Raw[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Crawl[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]MaXXXine[/i]"
+    }
+   ],
+   "difficulty": "NORMAL",
+   "id": "116512",
+   "outro": "",
+   "question": "Which horror movie was NOT directed by a French person?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Colombia"
+    },
+    {
+     "correct": false,
+     "text": "Venezuela"
+    },
+    {
+     "correct": false,
+     "text": "Saudi Arabia"
+    },
+    {
+     "correct": false,
+     "text": "Mexico"
+    }
+   ],
+   "difficulty": "NORMAL",
+   "id": "119188",
+   "outro": "",
+   "question": "Which country’s national soccer team is nicknamed “Los Cafeteros,” or “The Coffee Growers”?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "[i]The Conjuring Universe[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Alien[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Saw[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Resident Evil[/i]"
+    }
+   ],
+   "difficulty": "NORMAL",
+   "id": "119252",
+   "outro": "",
+   "question": "As of 2026, what is the highest-grossing horror film franchise worldwide?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "0"
+    },
+    {
+     "correct": false,
+     "text": "1"
+    },
+    {
+     "correct": false,
+     "text": "2"
+    },
+    {
+     "correct": false,
+     "text": "8"
+    }
+   ],
+   "difficulty": "NORMAL",
+   "id": "119453",
+   "outro": "Before night’s end, you might lose yours too.",
+   "question": "How many arms does the [i]Venus de Milo[/i] currently have?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "chiaroscuro"
+    },
+    {
+     "correct": false,
+     "text": "rococo"
+    },
+    {
+     "correct": false,
+     "text": "gouache"
+    },
+    {
+     "correct": false,
+     "text": "scumbling"
+    }
+   ],
+   "difficulty": "NORMAL",
+   "id": "119513",
+   "outro": "",
+   "question": "What’s that Italian term that describes the strong contrasts between light and dark in a painting?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Happy Death Day[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Totally Killer[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Hush[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Longlegs[/i]"
+    }
+   ],
+   "difficulty": "NORMAL",
+   "id": "119514",
+   "outro": "",
+   "question": "Which of these horror movies does NOT feature a masked killer?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Henri Matisse"
+    },
+    {
+     "correct": false,
+     "text": "Salvador Dalí"
+    },
+    {
+     "correct": false,
+     "text": "Paul Cézanne"
+    },
+    {
+     "correct": false,
+     "text": "Wassily Kandinsky"
+    }
+   ],
+   "difficulty": "NORMAL",
+   "id": "119640",
+   "outro": "",
+   "question": "Which artist famously began working with paper cut-outs late in his career?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Titian"
+    },
+    {
+     "correct": true,
+     "text": "Caravaggio"
+    },
+    {
+     "correct": false,
+     "text": "Bernini"
+    },
+    {
+     "correct": false,
+     "text": "Michelangelo"
+    }
+   ],
+   "difficulty": "HARD",
+   "id": "119641",
+   "outro": "",
+   "question": "Which painter was forced to flee Rome after committing at least one murder?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "75 mph"
+    },
+    {
+     "correct": false,
+     "text": "80 mph"
+    },
+    {
+     "correct": true,
+     "text": "85 mph"
+    },
+    {
+     "correct": false,
+     "text": "90 mph"
+    }
+   ],
+   "countrySpecific": true,
+   "difficulty": "NORMAL",
+   "id": "119732",
+   "outro": "",
+   "question": "What is the highest posted speed limit in Texas, and thus, the United States?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Backrooms[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Hereditary[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Fresh[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Nope[/i]"
+    }
+   ],
+   "difficulty": "NORMAL",
+   "id": "119792",
+   "outro": "",
+   "question": "In which horror movie does no one (sadly) get eaten?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Enchantress"
+    },
+    {
+     "correct": false,
+     "text": "Madame Hex"
+    },
+    {
+     "correct": false,
+     "text": "Charmer"
+    },
+    {
+     "correct": false,
+     "text": "Sabrina Spellman"
+    }
+   ],
+   "difficulty": "NORMAL",
+   "id": "121221",
+   "outro": "",
+   "question": "Which DC Comics witch was on some kind of [i]Suicide Squad[/i]?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "E and F"
+    },
+    {
+     "correct": false,
+     "text": "A and B"
+    },
+    {
+     "correct": false,
+     "text": "C and E sharp"
+    },
+    {
+     "correct": false,
+     "text": "D and E"
+    }
+   ],
+   "difficulty": "HARD",
+   "id": "121273",
+   "outro": "",
+   "question": "What are the main two notes that comprise the iconic theme from [i]Jaws[/i]?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "apples"
+    },
+    {
+     "correct": false,
+     "text": "cigarettes"
+    },
+    {
+     "correct": true,
+     "text": "Tylenol"
+    },
+    {
+     "correct": false,
+     "text": "bottled water"
+    }
+   ],
+   "countrySpecific": true,
+   "difficulty": "NORMAL",
+   "id": "121274",
+   "outro": "",
+   "question": "In 1982, an unknown murderer in the Chicago area laced which items with cyanide?",
+   "x": true
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]The Magic Flute[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]The Barber of Seville[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]La traviata[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Carmen[/i]"
+    }
+   ],
+   "difficulty": "NORMAL",
+   "id": "121275",
+   "outro": "",
+   "question": "The title character from [i]Five Nights at Freddy’s[/i] is known to play a song from which opera?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "a grandparent"
+    },
+    {
+     "correct": true,
+     "text": "a great-grandparent"
+    },
+    {
+     "correct": false,
+     "text": "a great-great-grandparent"
+    },
+    {
+     "correct": false,
+     "text": "a sibling"
+    }
+   ],
+   "difficulty": "NORMAL",
+   "id": "121308",
+   "outro": "",
+   "question": "What do you and your second cousin share?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "New York Knicks"
+    },
+    {
+     "correct": false,
+     "text": "Los Angeles Clippers"
+    },
+    {
+     "correct": false,
+     "text": "San Antonio Spurs"
+    },
+    {
+     "correct": false,
+     "text": "Indiana Pacers"
+    }
+   ],
+   "countrySpecific": true,
+   "difficulty": "NORMAL",
+   "id": "121512",
+   "outro": "",
+   "question": "Which basketball team won the 2026 NBA Finals, their first championship in over five decades?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Paris"
+    },
+    {
+     "correct": false,
+     "text": "London"
+    },
+    {
+     "correct": true,
+     "text": "New York"
+    },
+    {
+     "correct": false,
+     "text": "Berlin"
+    }
+   ],
+   "difficulty": "NORMAL",
+   "id": "121514",
+   "intro": {
+    "versions": [
+     {}
+    ]
+   },
+   "outro": "",
+   "question": "Where does the documentary film [i]Paris Is Burning[/i] take place?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "Trail of Tears"
+    },
+    {
+     "correct": true,
+     "text": "World War I"
+    },
+    {
+     "correct": false,
+     "text": "Korean War"
+    },
+    {
+     "correct": false,
+     "text": "Space Race"
+    }
+   ],
+   "difficulty": "NORMAL",
+   "id": "121521",
+   "outro": "",
+   "question": "The 2026 Pulitzer Prize-winning novel [i]Angel Down[/i] takes place during which historical event?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Thriller[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]True Blue[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Born in the USA[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Purple Rain[/i]"
+    }
+   ],
+   "countrySpecific": true,
+   "difficulty": "NORMAL",
+   "id": "121589",
+   "outro": "",
+   "question": "What was the first CD pressed in the United States?"
+  },
+  {
+   "choices": [
+    {
+     "correct": false,
+     "text": "38"
+    },
+    {
+     "correct": false,
+     "text": "39"
+    },
+    {
+     "correct": true,
+     "text": "40"
+    },
+    {
+     "correct": false,
+     "text": "41"
+    }
+   ],
+   "difficulty": "HARD",
+   "id": "121762",
+   "outro": "",
+   "question": "What is the atomic number of zirconium?"
+  },
+  {
+   "choices": [
+    {
+     "correct": true,
+     "text": "Billy Ray Cyrus"
+    },
+    {
+     "correct": false,
+     "text": "Toni Basil"
+    },
+    {
+     "correct": false,
+     "text": "Bo Bice"
+    },
+    {
+     "correct": false,
+     "text": "Sir Mix-a-Lot"
+    }
+   ],
+   "difficulty": "HARD",
+   "id": "121763",
+   "outro": "",
+   "question": "Which one-hit wonder has a small role in [i]Mulholland Drive[/i]?"
+  }
+ ]
+}
