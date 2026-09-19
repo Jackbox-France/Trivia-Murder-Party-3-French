@@ -4,32 +4,32 @@
    "choices": [
     {
      "correct": false,
-     "text": "Britney Spears"
+     "text": "Bernard Minet"
     },
     {
      "correct": false,
-     "text": "Ryan Gosling"
+     "text": "Framboisier"
     },
     {
      "correct": true,
-     "text": "Mandy Moore"
+     "text": "Jacky"
     },
     {
      "correct": false,
-     "text": "Justin Timberlake"
+     "text": "Rémy Sarrazin"
     }
    ],
    "countrySpecific": true,
    "difficulty": "NORMAL",
    "id": "104538",
    "outro": "",
-   "question": "Who was NOT in the 1993 cast of the All New Mickey Mouse Club?"
+   "question": "Lequel de ces artistes ne faisait PAS partie des Musclés ?"
   },
   {
    "choices": [
     {
      "correct": true,
-     "text": "[i]Snow White & the Seven Dwarfs[/i]"
+     "text": "[i]Blanche-Neige et les sept nains[/i]"
     },
     {
      "correct": false,
@@ -41,86 +41,86 @@
     },
     {
      "correct": false,
-     "text": "[i]Victory Through Air Power[/i]"
+     "text": "[i]Victoire dans les airs[/i]"
     }
    ],
    "difficulty": "NORMAL",
    "id": "105036",
    "outro": "",
-   "question": "What was Disney’s first feature-length animated film?"
+   "question": "Quel a été le premier long métrage d'animation de Disney ?"
   },
   {
    "choices": [
     {
      "correct": true,
-     "text": "Great Smoky Mountains"
+     "text": "Le parc national de la Vanoise"
     },
     {
      "correct": false,
-     "text": "Grand Canyon"
+     "text": "Le parc national des Cévennes"
     },
     {
      "correct": false,
-     "text": "Joshua Tree"
+     "text": "Le parc national des Écrins"
     },
     {
      "correct": false,
-     "text": "Yellowstone"
+     "text": "Le parc national du Mercantour"
     }
    ],
    "countrySpecific": true,
    "difficulty": "HARD",
    "id": "105610",
    "outro": "",
-   "question": "What is the most popular U.S. National Park?"
+   "question": "Quel est le plus ancien parc national de France ?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "architecture"
+     "text": "de la peinture"
     },
     {
      "correct": true,
-     "text": "ballroom dance"
+     "text": "de la danse de salon"
     },
     {
      "correct": false,
-     "text": "painting"
+     "text": "de la peinture"
     },
     {
      "correct": false,
-     "text": "sculpture"
+     "text": "de la sculpture"
     }
    ],
    "difficulty": "HARD",
    "id": "106015",
    "outro": "",
-   "question": "What was NOT once an Olympic competition?"
+   "question": "Quelle discipline n'a JAMAIS fait partie des épreuves olympiques ?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "Athens"
+     "text": "Athènes"
     },
     {
      "correct": false,
-     "text": "Troy"
+     "text": "Troie"
     },
     {
      "correct": true,
-     "text": "Ithaca"
+     "text": "Ithaque"
     },
     {
      "correct": false,
-     "text": "Mycenae"
+     "text": "Mycènes"
     }
    ],
    "difficulty": "NORMAL",
    "id": "106129",
    "outro": "",
-   "question": "Where was Odysseus trying to get back to in [i]The Odyssey[/i]?"
+   "question": "Où Ulysse cherchait-il à retourner dans [i]L'Odyssée[/i] ?"
   },
   {
    "choices": [
@@ -144,7 +144,7 @@
    "difficulty": "NORMAL",
    "id": "106229",
    "outro": "",
-   "question": "In a soccer match, how many yellow cards can you get before you’re ejected from the game?"
+   "question": "Lors d'un match de football, combien de cartons jaunes peut-on recevoir avant d'être expulsé du terrain ?"
   },
   {
    "choices": [
@@ -168,57 +168,57 @@
    "difficulty": "HARD",
    "id": "106419",
    "outro": "",
-   "question": "In golf, what’s it called when someone scores eight strokes on a hole?"
+   "question": "Au golf, comment appelle-t-on le fait de terminer un trou en huit coups ?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "Ella Emhoff"
+     "text": "Delphine de Vigan"
     },
     {
      "correct": false,
-     "text": "Meghan McCain"
+     "text": "Amélie Nothomb"
     },
     {
      "correct": true,
-     "text": "Malia Obama"
+     "text": "Mazarine Pingeot"
     },
     {
      "correct": false,
-     "text": "Jenna Bush Hager"
+     "text": "Leïla Slimani"
     }
    ],
    "countrySpecific": true,
    "difficulty": "NORMAL",
    "id": "106436",
    "outro": "",
-   "question": "Which political nepo baby wrote on the Amazon Prime show [i]Swarm[/i]?"
+   "question": "Quelle écrivaine est la fille de François Mitterrand ?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "Vancouver Grizzlies"
+     "text": "Brésil et Yougoslavie"
     },
     {
      "correct": false,
-     "text": "Calgary Oilers"
+     "text": "Mexique et France"
     },
     {
      "correct": false,
-     "text": "Ottawa Councilmen"
+     "text": "Angleterre et Allemagne"
     },
     {
      "correct": true,
-     "text": "Toronto Arenas"
+     "text": "Uruguay et Argentine"
     }
    ],
    "countrySpecific": false,
    "difficulty": "HARD",
    "id": "106491",
    "outro": "",
-   "question": "Who played in the first-ever NHL game in 1917?"
+   "question": "Quelles équipes ont disputé le tout premier match de l'histoire de la Coupe du monde de football en 1930 ?"
   },
   {
    "choices": [
@@ -242,56 +242,56 @@
    "difficulty": "HARD",
    "id": "106505",
    "outro": "",
-   "question": "Which sprinter has won the most world championship titles in the 100 meter event?"
+   "question": "Quel sprinteur a remporté le plus grand nombre de titres de champion du monde au 100 mètres ?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "rabbit punch"
+     "text": "coup du lapin"
     },
     {
      "correct": true,
-     "text": "anchor punch"
+     "text": "coup d’ancre"
     },
     {
      "correct": false,
-     "text": "kidney punch"
+     "text": "coup aux reins"
     },
     {
      "correct": false,
-     "text": "hitting on the break"
+     "text": "frapper pendant le break"
     }
    ],
    "difficulty": "NORMAL",
    "id": "106515",
    "outro": "",
-   "question": "Which punch is legal in boxing?"
+   "question": "Quel coup est autorisé en boxe ?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "college navy"
+     "text": "LOSC Lille"
     },
     {
      "correct": true,
-     "text": "Honolulu blue"
+     "text": "RC Lens"
     },
     {
      "correct": false,
-     "text": "deep cerulean"
+     "text": "FC Nantes"
     },
     {
      "correct": false,
-     "text": "cobalt rising"
+     "text": "AS Monaco"
     }
    ],
    "countrySpecific": true,
    "difficulty": "HARD",
    "id": "106537",
    "outro": "",
-   "question": "What is the name of the specific shade of blue used by the Detroit Lions?"
+   "question": "Quel club de football français est traditionnellement surnommé « les Sang et Or » ?"
   },
   {
    "choices": [
@@ -315,21 +315,21 @@
    "difficulty": "HARD",
    "id": "106539",
    "outro": "",
-   "question": "What was the name of the ship in the sea shanty “Wellerman”?"
+   "question": "Quel était le nom du bateau dans la chanson de marins “Wellerman”?"
   },
   {
    "choices": [
     {
      "correct": true,
-     "text": "Chicago"
+     "text": "Pasadena"
     },
     {
      "correct": false,
-     "text": "Atlanta"
+     "text": "Sacramento"
     },
     {
      "correct": false,
-     "text": "Brooklyn"
+     "text": "San Diego"
     },
     {
      "correct": false,
@@ -339,140 +339,140 @@
    "difficulty": "NORMAL",
    "id": "106580",
    "outro": "",
-   "question": "In which city does the sitcom character Steve Urkel reside?"
+   "question": "Dans quelle ville se déroule principalement The Big Bang Theory ?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "Nike Air Jordans"
+     "text": "Les Nike Air Jordan"
     },
     {
      "correct": false,
-     "text": "Olympic Gold Dan Gable Adidas"
+     "text": "Les Adidas Olympic Gold de Dan Gable"
     },
     {
      "correct": false,
-     "text": "The Puma Clyde"
+     "text": "Les Puma Clyde"
     },
     {
      "correct": true,
-     "text": "Converse Chuck Taylor All Stars"
+     "text": "Les Converse Chuck Taylor All Stars"
     }
    ],
    "difficulty": "NORMAL",
    "id": "106587",
    "outro": "",
-   "question": "What was the first celebrity-endorsed sneaker?"
+   "question": "Quelle a été la première basket promue par une célébrité ?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "James Franco"
+     "text": "Ted Mosby"
     },
     {
      "correct": false,
-     "text": "Jonah Hill"
+     "text": "Barney Stinson"
     },
     {
      "correct": false,
-     "text": "Paul Rudd"
+     "text": "Robin Scherbatsky"
     },
     {
      "correct": true,
-     "text": "Jason Segel"
+     "text": "Marshall Eriksen"
     }
    ],
    "countrySpecific": true,
    "difficulty": "HARD",
    "id": "106791",
    "outro": "",
-   "question": "Who played Nick Andopolis on [i]Freaks and Geeks[/i]?"
+   "question": "Quel personnage Jason Segel joue-t-il dans [i]How I Met Your Mother[/i]?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "“Call me Ishmael.”"
+     "text": "“Appelez-moi Ishmael.”"
     },
     {
      "correct": true,
-     "text": "“It was the best of times...”"
+     "text": "“C'était le meilleur des temps…”"
     },
     {
      "correct": false,
-     "text": "“I am an invisible man.”"
+     "text": "“Je suis un homme invisible.”"
     },
     {
      "correct": false,
-     "text": "“Mother died today.”"
+     "text": "“Maman est décédée aujourd'hui.”"
     }
    ],
    "difficulty": "EASY",
    "id": "106792",
    "outro": "",
-   "question": "What is the first line of [i]A Tale of Two Cities[/i]?"
+   "question": "Quelle est la première ligne de [i]Le Conte de deux cités[/i] ?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "Grover Cleveland"
+     "text": "Charles de Gaulle"
     },
     {
      "correct": false,
-     "text": "Theodore Roosevelt"
+     "text": "Jacques Chirac"
     },
     {
      "correct": false,
-     "text": "John F. Kennedy"
+     "text": "François Mitterrand"
     },
     {
      "correct": true,
-     "text": "Jimmy Carter"
+     "text": "Valéry Giscard d'Estaing"
     }
    ],
    "countrySpecific": true,
    "difficulty": "HARD",
    "id": "106801",
    "outro": "",
-   "question": "Who was the first U.S. President to be born in a hospital?"
+   "question": "Quel président de la Ve République est né en Allemagne ?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "Ichiro Suzuki"
+     "text": "Thierry Henry"
     },
     {
      "correct": true,
-     "text": "Alex Rodriguez"
+     "text": "Zinédine Zidane"
     },
     {
      "correct": false,
-     "text": "Albert Pujols"
+     "text": "Didier Deschamps"
     },
     {
      "correct": false,
-     "text": "Sammy Sosa"
+     "text": "David Trezeguet"
     }
    ],
    "countrySpecific": true,
    "difficulty": "NORMAL",
    "id": "106894",
    "outro": "",
-   "question": "Which baseball player retired in 2016?"
+   "question": "Quel footballeur français a terminé sa carrière de joueur en 2006 ?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "20 hot air balloons"
+     "text": "20 montgolfières"
     },
     {
      "correct": false,
-     "text": "2 giraffes"
+     "text": "2 girafes"
     },
     {
      "correct": true,
@@ -480,64 +480,64 @@
     },
     {
      "correct": false,
-     "text": "Lucille Ball"
+     "text": "50 motos"
     }
    ],
    "countrySpecific": true,
    "difficulty": "HARD",
    "id": "107016",
    "outro": "",
-   "question": "A marching band performed at the first-ever Super Bowl Halftime Show, along with..."
+   "question": "Une fanfare s'est produite lors du tout premier spectacle de la mi-temps du Super Bowl, accompagnée de..."
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "Jim Thorpe"
+     "text": "un joueur de tennis"
     },
     {
      "correct": true,
-     "text": "Ed Smith"
+     "text": "un aviateur"
     },
     {
      "correct": false,
-     "text": "Cal Hubbard"
+     "text": "un cycliste"
     },
     {
      "correct": false,
-     "text": "Dutch Clark"
+     "text": "un escrimeur"
     }
    ],
    "countrySpecific": true,
    "difficulty": "HARD",
    "id": "107252",
    "outro": "",
-   "question": "Which football player modeled the pose seen on the Heisman Trophy?"
+   "question": "Roland Garros, qui donne son nom au célèbre tournoi de tennis, était principalement…"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "the Zodiac Killer"
+     "text": "Le Tueur du Zodiaque"
     },
     {
      "correct": false,
-     "text": "the Killer Clown"
+     "text": "Le Clown Tueur"
     },
     {
      "correct": false,
-     "text": "the Night Stalker"
+     "text": "Le Traqueur de la Nuit"
     },
     {
      "correct": true,
-     "text": "the Unabomber"
+     "text": "Unabomber"
     }
    ],
    "countrySpecific": true,
    "difficulty": "NORMAL",
    "id": "107346",
-   "outro": "Couldn’t really get into his manifesto, sorry. I loooove texting!",
-   "question": "Who was Theodore Kaczynski?",
+   "outro": "Je n'ai pas vraiment réussi à m'intéresser à son manifeste, désolé. J'adoooore envoyer des SMS !",
+   "question": "Qui était Theodore Kaczynski?",
    "x": true
   },
   {
@@ -561,8 +561,8 @@
    ],
    "difficulty": "HARD",
    "id": "107516",
-   "outro": "It’s like I’ve always said: life’s too short not to marry your hot cousin.",
-   "question": "Which poet married his first cousin?"
+   "outro": "C'est comme je l'ai toujours dit : la vie est trop courte pour ne pas épouser sa cousine canon.",
+   "question": "Quel poète a épousé sa cousine germaine ?"
   },
   {
    "choices": [
@@ -586,105 +586,105 @@
    "difficulty": "NORMAL",
    "id": "107770",
    "outro": "",
-   "question": "Which [i]Star Trek[/i] actor went to space for real in 2021?"
+   "question": "Quel acteur de [i]Star Trek[/i] est vraiment allé dans l'espace en 2021 ?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "Zephyrus"
+     "text": "Zéphyr"
     },
     {
      "correct": true,
-     "text": "Boreas"
+     "text": "Borée"
     },
     {
      "correct": false,
-     "text": "Notus"
+     "text": "Notos"
     },
     {
      "correct": false,
-     "text": "Eurus"
+     "text": "Euros"
     }
    ],
    "difficulty": "HARD",
    "id": "108264",
    "outro": "",
-   "question": "In ancient Greece, who was the god of the north wind?"
+   "question": "Dans la Grèce antique, qui était le dieu du vent du nord ?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "Caitlin Clark"
+     "text": "Nicolas Mas"
     },
     {
      "correct": false,
-     "text": "Lisa Leslie"
+     "text": "William Servat"
     },
     {
      "correct": true,
-     "text": "Diana Taurasi"
+     "text": "Dimitri Yachvili"
     },
     {
      "correct": false,
-     "text": "Candace Parker"
+     "text": "Lionel Nallet"
     }
    ],
    "countrySpecific": true,
    "difficulty": "HARD",
    "id": "108361",
-   "outro": "I’m yelling “KISS! KISS!” at my TV every time I watch sports. Sometimes it works!",
-   "question": "Which legendary WNBA player once kissed an opposing player on the lips during a playoff game?"
+   "outro": "Ils n'avaient pas tort. J'aurais besoin vraiment d'une tronçonneuse pour couper ses bras !",
+   "question": "Quel ancien international français de rugby était surnommé [i]La Bûche[/i] ?"
   },
   {
    "choices": [
     {
      "correct": true,
-     "text": "skull and crossbones"
+     "text": "une tête de mort"
     },
     {
      "correct": false,
-     "text": "scissors"
+     "text": "des ciseaux"
     },
     {
      "correct": false,
-     "text": "bomb with lit fuse"
+     "text": "une bombe avec une mèche allumée"
     },
     {
      "correct": false,
-     "text": "airplane"
+     "text": "un avion"
     }
    ],
    "difficulty": "HARD",
    "id": "108493",
    "outro": "",
-   "question": "What appears if you type a capital N in the Wingdings font?"
+   "question": "Qu'est-ce qui s'affiche lorsque l'on tape un N majuscule avec la police Wingdings ?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "Human Giant"
+     "text": "Les Nuls"
     },
     {
      "correct": false,
-     "text": "Key and Peele"
+     "text": "Les Inconnus"
     },
     {
      "correct": true,
-     "text": "The State"
+     "text": "Les Robins des Bois"
     },
     {
      "correct": false,
-     "text": "The Kids in the Hall"
+     "text": "Les Nous Ç Nous"
     }
    ],
    "countrySpecific": true,
    "difficulty": "HARD",
    "id": "108571",
    "outro": "",
-   "question": "Which sketch comedy group had the most people in it?",
+   "question": "Quelle groupe humoristique contient le plus de gens ?",
    "x": false
   },
   {
@@ -703,13 +703,13 @@
     },
     {
      "correct": false,
-     "text": "Arm-Fall-Off Boy"
+     "text": "La Chose"
     }
    ],
    "difficulty": "NORMAL",
    "id": "108584",
-   "outro": "His name is Kal-El. His other son is named “Not the bees! Not the bees! AHHHHHHHHHHHH!!!!!!!!”",
-   "question": "Which superhero did Nicolas Cage name his son after?"
+   "outro": "Il s'appelle Kal-El. Son autre fils s'appelle “Pas les abeilles ! Pas les abeilles ! AHHHHHHHHHHHH!!!!!!!!”",
+   "question": "Quel super-héros a inspiré à Nicolas Cage le prénom de son fils ?"
   },
   {
    "choices": [
@@ -723,7 +723,7 @@
     },
     {
      "correct": false,
-     "text": "[i]Lethal Weapon[/i]"
+     "text": "[i]L'Arme Fatale[/i]"
     },
     {
      "correct": false,
@@ -733,31 +733,31 @@
    "difficulty": "NORMAL",
    "id": "108605",
    "outro": "",
-   "question": "Which classic ’80s movie was remade in 2024 with Jake Gyllenhaal & Conor McGregor?"
+   "question": "Quel film culte des années 80 a fait l'objet d'un remake en 2024 avec Jake Gyllenhaal et Conor McGregor ?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "fencing"
+     "text": "l'escrime"
     },
     {
      "correct": false,
-     "text": "tennis"
+     "text": "le tennis"
     },
     {
      "correct": false,
-     "text": "volleyball"
+     "text": "le volleyball"
     },
     {
      "correct": true,
-     "text": "badminton"
+     "text": "le badminton"
     }
    ],
    "difficulty": "HARD",
    "id": "108897",
    "outro": "",
-   "question": "Which sport was added to the Olympics most recently?"
+   "question": "Quel est le sport qui a été ajouté le plus récemment au programme des Jeux olympiques ?"
   },
   {
    "choices": [
@@ -767,7 +767,7 @@
     },
     {
      "correct": true,
-     "text": "droog"
+     "text": "droug"
     },
     {
      "correct": false,
@@ -775,31 +775,31 @@
     },
     {
      "correct": false,
-     "text": "shagadelic"
+     "text": "shagadélique"
     }
    ],
    "difficulty": "NORMAL",
    "id": "108905",
    "outro": "",
-   "question": "Which slang term comes from [i]A Clockwork Orange[/i]?"
+   "question": "Quel mot d'argot provient du film [i]Orange mécanique[/i] ?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "spikes protruding from spine"
+     "text": "des pointes dépassant de la colonne vertébrale"
     },
     {
      "correct": true,
-     "text": "bodies covered in eyes"
+     "text": "des corps couverts d'yeux"
     },
     {
      "correct": false,
-     "text": "prehensile tails"
+     "text": "des queues préhensiles"
     },
     {
      "correct": false,
-     "text": "razor-sharp teeth"
+     "text": "des dents acérées"
     }
    ],
    "difficulty": "NORMAL",
@@ -810,7 +810,7 @@
     ]
    },
    "outro": "",
-   "question": "What is a feature of “biblically accurate” angels?"
+   "question": "Quelle est l'une des caractéristiques des anges “fidèles à la Bible” ?"
   },
   {
    "choices": [
@@ -834,49 +834,49 @@
    "difficulty": "NORMAL",
    "id": "109413",
    "outro": "",
-   "question": "Who fought Muhammad Ali in the “Rumble in the Jungle”?"
+   "question": "Qui a combattu Mohammed Ali durant le “Rumble in the Jungle”?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "“God Loves a Terrier”"
+     "text": "“La banlieue, c’est pas rose”"
     },
     {
      "correct": false,
-     "text": "“Amish Paradise”"
+     "text": "“Le blues du fonctionnaire”"
     },
     {
      "correct": true,
-     "text": "“Big Bottom”"
+     "text": "“Vice et versa”"
     },
     {
      "correct": false,
-     "text": "“Bubbe Made a Kishka”"
+     "text": "“Gérard a les yeux verts”"
     }
    ],
    "difficulty": "NORMAL",
    "id": "109463",
    "outro": "",
-   "question": "Select the Spinal Tap song."
+   "question": "Laquelle de ces chansons est interprétée par Les Inconnus ?"
   },
   {
    "choices": [
     {
      "correct": true,
-     "text": "[i]A Sunday on La Grande Jatte[/i]"
+     "text": "[i]Un dimanche après-midi à l'île de la Grande Jatte[/i]"
     },
     {
      "correct": false,
-     "text": "[i]Nighthawks[/i]"
+     "text": "[i]Oiseaux de nuit[/i]"
     },
     {
      "correct": false,
-     "text": "[i]The Last Supper[/i]"
+     "text": "[i]La Cène[/i]"
     },
     {
      "correct": false,
-     "text": "[i]The Scream[/i]"
+     "text": "[i]Le Cri[/i]"
     }
    ],
    "difficulty": "NORMAL",
@@ -884,170 +884,170 @@
    "intro": {
     "versions": [
      {
-      "subtitle": "Art is subjective but you know what’s not? Art numbers."
+      "subtitle": "L'art est subjectif, mais vous savez ce qui ne l'est pas ? Les chiffres de l'art."
      }
     ]
    },
    "outro": "",
-   "question": "Which famous painting depicts the most people?"
+   "question": "Quel tableau célèbre représente le plus grand nombre de personnages ?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "frontenis"
+     "text": "un frontenis"
     },
     {
      "correct": true,
-     "text": "cesta"
+     "text": "un cesta"
     },
     {
      "correct": false,
-     "text": "pitton"
+     "text": "un pitton"
     },
     {
      "correct": false,
-     "text": "tamburello"
+     "text": "un tamburello"
     }
    ],
    "difficulty": "HARD",
    "id": "109499",
    "outro": "",
-   "question": "In jai alai, what do you use to whip balls around at high speeds?"
+   "question": "Au jai alai, qu'utilise-t-on pour frapper les balles à grande vitesse ?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "George Washington"
+     "text": "Ferdinand Foch"
     },
     {
      "correct": false,
-     "text": "Ulysses S. Grant"
+     "text": "Philippe Pétain"
     },
     {
      "correct": false,
-     "text": "John J. Pershing"
+     "text": "Philippe Leclerc de Hauteclocque"
     },
     {
      "correct": true,
-     "text": "George C. Marshall"
+     "text": "Charles de Gaulle"
     }
    ],
    "difficulty": "HARD",
    "id": "111185",
    "outro": "",
-   "question": "Who was NOT promoted to General of the Armies, the highest possible U.S. military rank?"
+   "question": "Lequel de ces personnages historiques français n’a JAMAIS été maréchal de France ?"
   },
   {
    "choices": [
     {
      "correct": true,
-     "text": "Bobby Darin"
+     "text": "[i]Mamma Mia ![/i]"
     },
     {
      "correct": false,
-     "text": "Madonna"
+     "text": "[i]Hair[/i]"
     },
     {
      "correct": false,
-     "text": "Billy Joel"
+     "text": "[i]Grease[/i]"
     },
     {
      "correct": false,
-     "text": "Bob Dylan"
+     "text": "[i]Starmania[/i]"
     }
    ],
    "difficulty": "NORMAL",
    "id": "112739",
    "outro": "",
-   "question": "The 2025 Broadway musical [i]Just in Time[/i] is a jukebox musical centering whose music?"
+   "question": "Quelle comédie musicale est construite autour des chansons du groupe ABBA ?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "Yoda"
+     "text": "Simba adulte dans [i]Le Roi Lion[/i]"
     },
     {
      "correct": false,
-     "text": "Miss Piggy"
+     "text": "Kronk dans [i]Kuzco, l’empereur mégalo[/i]"
     },
     {
      "correct": false,
-     "text": "Bert"
+     "text": "Chandler Bing dans [i]Friends[/i]"
     },
     {
      "correct": true,
-     "text": "Elmo"
+     "text": "Buzz l’Éclair dans [i]Toy Story[/i]"
     }
    ],
    "difficulty": "NORMAL",
    "id": "113275",
    "outro": "",
-   "question": "Which of these characters did voice artist and puppeteer Frank Oz NOT portray?"
+   "question": "Lequel de ces personnages n’a PAS été doublé en français par Emmanuel Curtil ?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "boxing"
+     "text": "de la boxe"
     },
     {
      "correct": false,
-     "text": "marathon running"
+     "text": "une course de marathon"
     },
     {
      "correct": false,
-     "text": "wrestling"
+     "text": "de la lutte"
     },
     {
      "correct": true,
-     "text": "chariot racing"
+     "text": "des courses de chars"
     }
    ],
    "difficulty": "NORMAL",
    "id": "113554",
    "outro": "",
-   "question": "Which sport might you have seen in an ancient Greek hippodrome?"
+   "question": "Quel sport auriez-vous pu voir dans un hippodrome de la Grèce antique ?"
   },
   {
    "choices": [
     {
      "correct": true,
-     "text": "Archimedes"
+     "text": "Archimède"
     },
     {
      "correct": false,
-     "text": "Plato"
+     "text": "Platon"
     },
     {
      "correct": false,
-     "text": "Pythagoras"
+     "text": "Pythagore"
     },
     {
      "correct": false,
-     "text": "Julius Caesar"
+     "text": "Thalès"
     }
    ],
    "difficulty": "NORMAL",
    "id": "113941",
-   "outro": "If I come in there and you kids are disturbing my circles, I swear to God...",
-   "question": "Which Ancient Greek’s last words were “DO NOT DISTURB MY CIRCLES!”?"
+   "outro": "Si je rentre là-dedans et que vous dérangez mes cercles, je vous jure que…",
+   "question": "Quel Grec de l'Antiquité a prononcé ces derniers mots : “NE DÉRANGE PAS MES CERCLES!”?"
   },
   {
    "choices": [
     {
      "correct": true,
-     "text": "bedposts"
+     "text": "les montants de lit"
     },
     {
      "correct": false,
-     "text": "Christmas tree"
+     "text": "le sapin de Noël"
     },
     {
      "correct": false,
-     "text": "sour apple"
+     "text": "la pomme acide"
     },
     {
      "correct": false,
@@ -1057,7 +1057,7 @@
    "difficulty": "HARD",
    "id": "113985",
    "outro": "",
-   "question": "What do cool bowlers call it when they bowl a 7-10 split?"
+   "question": "Comment les joueurs de bowling branchés surnomment-ils un split 7-10 ?"
   },
   {
    "choices": [
@@ -1081,37 +1081,37 @@
    "difficulty": "EASY",
    "id": "114557",
    "outro": "",
-   "question": "Who is the primary antagonist in the [i]Halloween[/i] franchise?"
+   "question": "Qui est le principal antagoniste de la série [i]Halloween[/i] ?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "[i]The Pit and the Pendulum[/i]"
+     "text": "[i]Le Puits et le Pendule[/i]"
     },
     {
      "correct": false,
-     "text": "[i]I Am Legend[/i]"
+     "text": "[i]Je suis une Légende[/i]"
     },
     {
      "correct": true,
-     "text": "[i]The Stand[/i]"
+     "text": "[i]Le Fléau[/i]"
     },
     {
      "correct": false,
-     "text": "[i]Rosemary’s Baby[/i]"
+     "text": "[i]Un bébé pour Rosemary[/i]"
     }
    ],
    "difficulty": "EASY",
    "id": "114624",
    "outro": "",
-   "question": "Which classic horror novel was written by Stephen King?"
+   "question": "Quel roman d'horreur classique a été écrit par Stephen King ?"
   },
   {
    "choices": [
     {
      "correct": true,
-     "text": "Mr. Big"
+     "text": "Mr Big"
     },
     {
      "correct": false,
@@ -1129,7 +1129,7 @@
    "difficulty": "EASY",
    "id": "114636",
    "outro": "",
-   "question": "Who does Carrie marry in the first [i]Sex and the City[/i] movie?"
+   "question": "Avec qui Carrie se marie-t-elle dans le premier film [i]Sex and the City[/i] ?"
   },
   {
    "choices": [
@@ -1153,7 +1153,7 @@
    "difficulty": "EASY",
    "id": "114639",
    "outro": "",
-   "question": "The film [i]Dumb Money[/i] recounts the 2021 short squeeze of which company’s stock?"
+   "question": "Le film [i]Dumb Money[/i] retrace le short squeeze de 2021 concernant les actions de quelle société ?"
   },
   {
    "choices": [
@@ -1167,17 +1167,17 @@
     },
     {
      "correct": false,
-     "text": "“Corn.”"
+     "text": "“Maïs.”"
     },
     {
      "correct": false,
-     "text": "[fart noise]"
+     "text": "[bruit de pet]"
     }
    ],
    "difficulty": "EASY",
    "id": "114649",
    "outro": "",
-   "question": "Which word does Charles Foster Kane utter with his dying breath in [i]Citizen Kane[/i]?"
+   "question": "Quel mot Charles Foster Kane prononce-t-il dans son dernier souffle dans [i]Citizen Kane[/i] ?"
   },
   {
    "choices": [
@@ -1187,7 +1187,7 @@
     },
     {
      "correct": false,
-     "text": "[i]The Birds[/i]"
+     "text": "[i]Les Oiseaux[/i]"
     },
     {
      "correct": false,
@@ -1201,13 +1201,13 @@
    "difficulty": "EASY",
    "id": "114652",
    "outro": "",
-   "question": "Which classic horror movie takes place at the Bates Motel?"
+   "question": "Quel film d'horreur classique se déroule au Bates Motel ?"
   },
   {
    "choices": [
     {
      "correct": true,
-     "text": "Florida"
+     "text": "Floride"
     },
     {
      "correct": false,
@@ -1215,91 +1215,91 @@
     },
     {
      "correct": false,
-     "text": "New Mexico"
+     "text": "Nouveau-Mexique"
     },
     {
      "correct": false,
-     "text": "Louisiana"
+     "text": "Louisiane"
     }
    ],
    "countrySpecific": true,
    "difficulty": "NORMAL",
    "id": "114696",
-   "outro": "And to this very day, old people love going to Florida.",
-   "question": "Which U.S. state did Juan Ponce de León discover while seeking the Fountain of Youth?"
+   "outro": "Et aujourd'hui encore, les personnes âgées adorent partir en Floride.",
+   "question": "Quel État américain Juan Ponce de León a-t-il découvert alors qu'il partait à la recherche de la fontaine de Jouvence ?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "their physical location"
+     "text": "leur emplacement géographique"
     },
     {
      "correct": false,
-     "text": "the size of the stage"
+     "text": "la taille de la scène"
     },
     {
      "correct": false,
-     "text": "the cost of the production"
+     "text": "le coût de production"
     },
     {
      "correct": true,
-     "text": "the number of audience seats"
+     "text": "le nombre de places assises"
     }
    ],
    "countrySpecific": true,
    "difficulty": "NORMAL",
    "id": "114885",
    "outro": "",
-   "question": "What’s the difference between a Broadway show and an off-Broadway show?"
+   "question": "Quelle est la différence entre un spectacle de Broadway et un spectacle off-Broadway ?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "Italy and France"
+     "text": "Italie et France"
     },
     {
      "correct": false,
-     "text": "Argentina and Germany"
+     "text": "Argentine et Allemagne"
     },
     {
      "correct": false,
-     "text": "Brazil and Ireland"
+     "text": "Brésil et Irlande"
     },
     {
      "correct": true,
-     "text": "England and Scotland"
+     "text": "Angleterre et Écosse"
     }
    ],
    "difficulty": "HARD",
    "id": "114906",
    "outro": "",
-   "question": "Which two teams played in the first international soccer match in 1872?"
+   "question": "Quelles sont les deux équipes qui ont disputé le premier match international de football en 1872 ?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "darts"
+     "text": "Quasimodo"
     },
     {
      "correct": true,
-     "text": "pool"
+     "text": "Gringoire"
     },
     {
      "correct": false,
-     "text": "horseshoes"
+     "text": "Frollo"
     },
     {
      "correct": false,
-     "text": "cornhole"
+     "text": "Phoebus"
     }
    ],
    "difficulty": "NORMAL",
    "id": "115309",
    "outro": "",
-   "question": "In [i]The Music Man[/i], what does Harold Hill warn River City about in “Ya Got Trouble”?"
+   "question": "Dans Notre-Dame de Paris, quel personnage chante [i]Le temps des cathédrales[/i] ?"
   },
   {
    "choices": [
@@ -1309,7 +1309,7 @@
     },
     {
      "correct": false,
-     "text": "[i]Weapons[/i]"
+     "text": "[i]Évanouis[/i]"
     },
     {
      "correct": true,
@@ -1317,13 +1317,13 @@
     },
     {
      "correct": false,
-     "text": "[i]The Black Phone[/i]"
+     "text": "[i]Black Phone[/i]"
     }
    ],
    "difficulty": "NORMAL",
    "id": "116478",
    "outro": "",
-   "question": "Which of these films is a “found footage” horror movie?"
+   "question": "Lequel de ces films est un film d'horreur de type “found footage” ?"
   },
   {
    "choices": [
@@ -1333,7 +1333,7 @@
     },
     {
      "correct": false,
-     "text": "[i]Raw[/i]"
+     "text": "[i]Grave[/i]"
     },
     {
      "correct": false,
@@ -1347,13 +1347,13 @@
    "difficulty": "NORMAL",
    "id": "116512",
    "outro": "",
-   "question": "Which horror movie was NOT directed by a French person?"
+   "question": "Quel film d'horreur n'a PAS été réalisé par un Français ?"
   },
   {
    "choices": [
     {
      "correct": true,
-     "text": "Colombia"
+     "text": "Colombie"
     },
     {
      "correct": false,
@@ -1361,23 +1361,23 @@
     },
     {
      "correct": false,
-     "text": "Saudi Arabia"
+     "text": "Arabie Saoudite"
     },
     {
      "correct": false,
-     "text": "Mexico"
+     "text": "Mexique"
     }
    ],
    "difficulty": "NORMAL",
    "id": "119188",
    "outro": "",
-   "question": "Which country’s national soccer team is nicknamed “Los Cafeteros,” or “The Coffee Growers”?"
+   "question": "Quelle équipe nationale de football porte le surnom de “Los Cafeteros,” c'est-à-dire “Les Cultivateurs de Café”?"
   },
   {
    "choices": [
     {
      "correct": true,
-     "text": "[i]The Conjuring Universe[/i]"
+     "text": "[i]Conjuring[/i]"
     },
     {
      "correct": false,
@@ -1395,7 +1395,7 @@
    "difficulty": "NORMAL",
    "id": "119252",
    "outro": "",
-   "question": "As of 2026, what is the highest-grossing horror film franchise worldwide?"
+   "question": "En 2026, quelle est la franchise de films d'horreur qui a généré le plus de recettes au niveau mondial ?"
   },
   {
    "choices": [
@@ -1418,8 +1418,8 @@
    ],
    "difficulty": "NORMAL",
    "id": "119453",
-   "outro": "Before night’s end, you might lose yours too.",
-   "question": "How many arms does the [i]Venus de Milo[/i] currently have?"
+   "outro": "Avant la fin de la nuit, vous pourriez bien perdre les vôtres aussi.",
+   "question": "Combien de bras la [i]Vénus de Milo[/i] a-t-elle actuellement ?"
   },
   {
    "choices": [
@@ -1437,19 +1437,19 @@
     },
     {
      "correct": false,
-     "text": "scumbling"
+     "text": "glacis"
     }
    ],
    "difficulty": "NORMAL",
    "id": "119513",
    "outro": "",
-   "question": "What’s that Italian term that describes the strong contrasts between light and dark in a painting?"
+   "question": "Quel est ce terme italien qui désigne les forts contrastes entre la lumière et l'obscurité dans un tableau ?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "[i]Happy Death Day[/i]"
+     "text": "[i]Happy Birthdead[/i]"
     },
     {
      "correct": false,
@@ -1457,7 +1457,7 @@
     },
     {
      "correct": false,
-     "text": "[i]Hush[/i]"
+     "text": "[i]Pas un bruit[/i]"
     },
     {
      "correct": true,
@@ -1467,7 +1467,7 @@
    "difficulty": "NORMAL",
    "id": "119514",
    "outro": "",
-   "question": "Which of these horror movies does NOT feature a masked killer?"
+   "question": "Lequel de ces films d'horreur ne met PAS en scène un tueur masqué ?"
   },
   {
    "choices": [
@@ -1491,7 +1491,7 @@
    "difficulty": "NORMAL",
    "id": "119640",
    "outro": "",
-   "question": "Which artist famously began working with paper cut-outs late in his career?"
+   "question": "Quel artiste est célèbre pour s'être mis à travailler avec des découpages sur papier à un stade avancé de sa carrière ?"
   },
   {
    "choices": [
@@ -1509,38 +1509,38 @@
     },
     {
      "correct": false,
-     "text": "Michelangelo"
+     "text": "Michel-Ange"
     }
    ],
    "difficulty": "HARD",
    "id": "119641",
    "outro": "",
-   "question": "Which painter was forced to flee Rome after committing at least one murder?"
+   "question": "Quel peintre a été contraint de fuir Rome après avoir commis au moins un meurtre ?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "75 mph"
+     "text": "130 km/h"
     },
     {
      "correct": false,
-     "text": "80 mph"
+     "text": "140 km/h"
     },
     {
      "correct": true,
-     "text": "85 mph"
+     "text": "150 km/h"
     },
     {
      "correct": false,
-     "text": "90 mph"
+     "text": "160 km/h"
     }
    ],
    "countrySpecific": true,
    "difficulty": "NORMAL",
    "id": "119732",
    "outro": "",
-   "question": "What is the highest posted speed limit in Texas, and thus, the United States?"
+   "question": "Quelle est la plus haute limitation de vitesse actuellement affichée sur une autoroute en Europe ?"
   },
   {
    "choices": [
@@ -1550,7 +1550,7 @@
     },
     {
      "correct": true,
-     "text": "[i]Hereditary[/i]"
+     "text": "[i]Hérédité[/i]"
     },
     {
      "correct": false,
@@ -1564,13 +1564,13 @@
    "difficulty": "NORMAL",
    "id": "119792",
    "outro": "",
-   "question": "In which horror movie does no one (sadly) get eaten?"
+   "question": "Dans quel film d'horreur personne ne se fait dévorer (malheureusement) ?"
   },
   {
    "choices": [
     {
      "correct": true,
-     "text": "Enchantress"
+     "text": "Enchanteresse"
     },
     {
      "correct": false,
@@ -1578,7 +1578,7 @@
     },
     {
      "correct": false,
-     "text": "Charmer"
+     "text": "Charma"
     },
     {
      "correct": false,
@@ -1588,71 +1588,71 @@
    "difficulty": "NORMAL",
    "id": "121221",
    "outro": "",
-   "question": "Which DC Comics witch was on some kind of [i]Suicide Squad[/i]?"
+   "question": "Quelle sorcière de DC Comics a fait partie d'une sorte de [i]Suicide Squad[/i] ?"
   },
   {
    "choices": [
     {
      "correct": true,
-     "text": "E and F"
+     "text": "Mi et Fa"
     },
     {
      "correct": false,
-     "text": "A and B"
+     "text": "La et Si"
     },
     {
      "correct": false,
-     "text": "C and E sharp"
+     "text": "Do et Mi dièse"
     },
     {
      "correct": false,
-     "text": "D and E"
+     "text": "Ré et Mi"
     }
    ],
    "difficulty": "HARD",
    "id": "121273",
    "outro": "",
-   "question": "What are the main two notes that comprise the iconic theme from [i]Jaws[/i]?"
+   "question": "Quelles sont les deux notes principales qui composent le thème emblématique de [i]Les Dents de la mer[/i] ?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "apples"
+     "text": "des pommes"
     },
     {
      "correct": false,
-     "text": "cigarettes"
+     "text": "des cigarettes"
     },
     {
      "correct": true,
-     "text": "Tylenol"
+     "text": "du Paracétamol"
     },
     {
      "correct": false,
-     "text": "bottled water"
+     "text": "des bouteilles d'eau"
     }
    ],
    "countrySpecific": true,
    "difficulty": "NORMAL",
    "id": "121274",
    "outro": "",
-   "question": "In 1982, an unknown murderer in the Chicago area laced which items with cyanide?",
+   "question": "En 1982, un meurtrier inconnu de la région de Chicago a empoisonné quels objets au cyanure ?",
    "x": true
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "[i]The Magic Flute[/i]"
+     "text": "[i]La Flûte enchantée[/i]"
     },
     {
      "correct": false,
-     "text": "[i]The Barber of Seville[/i]"
+     "text": "[i]Le Barbier de Séville[/i]"
     },
     {
      "correct": false,
-     "text": "[i]La traviata[/i]"
+     "text": "[i]La Traviata[/i]"
     },
     {
      "correct": true,
@@ -1662,56 +1662,56 @@
    "difficulty": "NORMAL",
    "id": "121275",
    "outro": "",
-   "question": "The title character from [i]Five Nights at Freddy’s[/i] is known to play a song from which opera?"
+   "question": "Le personnage principal de [i]Five Nights at Freddy’s[/i] est connu pour interpréter un air tiré de quel opéra ?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "a grandparent"
+     "text": "un grand-parent"
     },
     {
      "correct": true,
-     "text": "a great-grandparent"
+     "text": "un arrière-grand-parent"
     },
     {
      "correct": false,
-     "text": "a great-great-grandparent"
+     "text": "un arrière-arrière-grand-parent"
     },
     {
      "correct": false,
-     "text": "a sibling"
+     "text": "un frère ou une sœur"
     }
    ],
    "difficulty": "NORMAL",
    "id": "121308",
    "outro": "",
-   "question": "What do you and your second cousin share?"
+   "question": "Qu'est-ce que vous avez en commun avec votre cousin au deuxième degré ?"
   },
   {
    "choices": [
     {
      "correct": true,
-     "text": "New York Knicks"
+     "text": "Les New York Knicks"
     },
     {
      "correct": false,
-     "text": "Los Angeles Clippers"
+     "text": "Les Los Angeles Clippers"
     },
     {
      "correct": false,
-     "text": "San Antonio Spurs"
+     "text": "Les San Antonio Spurs"
     },
     {
      "correct": false,
-     "text": "Indiana Pacers"
+     "text": "Les Indiana Pacers"
     }
    ],
    "countrySpecific": true,
    "difficulty": "NORMAL",
    "id": "121512",
    "outro": "",
-   "question": "Which basketball team won the 2026 NBA Finals, their first championship in over five decades?"
+   "question": "Quelle équipe de basket-ball a remporté la finale de la NBA en 2026, son premier titre depuis plus de cinq décennies ?"
   },
   {
    "choices": [
@@ -1721,7 +1721,7 @@
     },
     {
      "correct": false,
-     "text": "London"
+     "text": "Londres"
     },
     {
      "correct": true,
@@ -1740,31 +1740,31 @@
     ]
    },
    "outro": "",
-   "question": "Where does the documentary film [i]Paris Is Burning[/i] take place?"
+   "question": "Où se déroule le documentaire [i]Paris Is Burning[/i] ?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "Trail of Tears"
+     "text": "La Piste des larmes"
     },
     {
      "correct": true,
-     "text": "World War I"
+     "text": "La Première Guerre mondiale"
     },
     {
      "correct": false,
-     "text": "Korean War"
+     "text": "La Guerre de Corée"
     },
     {
      "correct": false,
-     "text": "Space Race"
+     "text": "La Course à l'Espace"
     }
    ],
    "difficulty": "NORMAL",
    "id": "121521",
    "outro": "",
-   "question": "The 2026 Pulitzer Prize-winning novel [i]Angel Down[/i] takes place during which historical event?"
+   "question": "Le roman [i]Angel Down[/i], lauréat du prix Pulitzer 2026, se déroule pendant quel événement historique ?"
   },
   {
    "choices": [
@@ -1789,7 +1789,7 @@
    "difficulty": "NORMAL",
    "id": "121589",
    "outro": "",
-   "question": "What was the first CD pressed in the United States?"
+   "question": "Quel a été le premier CD gravé aux États-Unis ?"
   },
   {
    "choices": [
@@ -1813,31 +1813,31 @@
    "difficulty": "HARD",
    "id": "121762",
    "outro": "",
-   "question": "What is the atomic number of zirconium?"
+   "question": "Quel est le numéro atomique du zirconium ?"
   },
   {
    "choices": [
     {
      "correct": true,
-     "text": "Billy Ray Cyrus"
+     "text": "Johnny Hallyday"
     },
     {
      "correct": false,
-     "text": "Toni Basil"
+     "text": "Charles Aznavour"
     },
     {
      "correct": false,
-     "text": "Bo Bice"
+     "text": "Serge Gainsbourg"
     },
     {
      "correct": false,
-     "text": "Sir Mix-a-Lot"
+     "text": "Jacques Dutronc"
     }
    ],
    "difficulty": "HARD",
    "id": "121763",
    "outro": "",
-   "question": "Which one-hit wonder has a small role in [i]Mulholland Drive[/i]?"
+   "question": "Quel chanteur français fait une petite apparition dans [i]Les Diaboliques[/i] d’Henri-Georges Clouzot ?"
   }
  ]
 }
