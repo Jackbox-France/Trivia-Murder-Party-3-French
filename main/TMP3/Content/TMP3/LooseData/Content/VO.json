@@ -2588,7 +2588,7 @@
     "versions": [
      {
       "file": "VO/107631/audio/0.ogg",
-      "subtitle": "Ne le rendez pas facile — si quelqu’un le trouve, vous serez puni !"
+      "subtitle": "Ne le rendez pas facile — si quelqu’un le trouve, vous serez puni(e) !"
      }
     ]
    },
@@ -2764,7 +2764,7 @@
     "versions": [
      {
       "file": "VO/108155/audio/0.ogg",
-      "subtitle": "I’m done playing games. It’s time to end this once and for all."
+      "subtitle": "J’en ai assez de jouer. Il est temps d’en finir une bonne fois pour toutes."
      }
     ]
    },
@@ -2776,7 +2776,7 @@
     "versions": [
      {
       "file": "VO/108156/audio/0.ogg",
-      "subtitle": "Let’s do a little chase to see who will make it out alive."
+      "subtitle": "Faisons une petite course pour voir qui s’en sortira vivant."
      }
     ]
    },
@@ -2788,7 +2788,7 @@
     "versions": [
      {
       "file": "VO/108158/audio/0.ogg",
-      "subtitle": "You move forward one spot for each correct answer."
+      "subtitle": "Vous avancez d’une case pour chaque bonne réponse."
      }
     ]
    },
@@ -2800,7 +2800,7 @@
     "versions": [
      {
       "file": "VO/108159/audio/0.ogg",
-      "subtitle": "Here’s the first category."
+      "subtitle": "Voici la première catégorie."
      }
     ]
    },
@@ -2812,35 +2812,35 @@
     "versions": [
      {
       "file": "VO/108161/audio/0.ogg",
-      "subtitle": "Here are the right answers."
+      "subtitle": "Voici les bonnes réponses."
      },
      {
       "file": "VO/108161/audio/1.ogg",
-      "subtitle": "These are the correct answers."
+      "subtitle": "Voici les réponses correctes."
      },
      {
       "file": "VO/108161/audio/2.ogg",
-      "subtitle": "The moment of truth."
+      "subtitle": "L'instant de vérité."
      },
      {
       "file": "VO/108161/audio/3.ogg",
-      "subtitle": "How well did you do?"
+      "subtitle": "Comment vous en êtes-vous sortis ?"
      },
      {
       "file": "VO/108161/audio/4.ogg",
-      "subtitle": "Smart players picked..."
+      "subtitle": "Les joueurs intelligents ont choisi…"
      },
      {
       "file": "VO/108161/audio/5.ogg",
-      "subtitle": "This is what you should’ve picked..."
+      "subtitle": "Voici ce que vous auriez dû choisir…"
      },
      {
       "file": "VO/108161/audio/6.ogg",
-      "subtitle": "Who will sprint and who will stumble? Let’s find out."
+      "subtitle": "Qui va sprinter et qui va trébucher ? Découvrons-le."
      },
      {
       "file": "VO/108161/audio/7.ogg",
-      "subtitle": "Let’s see how this shakes things up."
+      "subtitle": "Voyons comment ça va tout chambouler."
      }
     ]
    },
@@ -2852,75 +2852,75 @@
     "versions": [
      {
       "file": "VO/108162/audio/0.ogg",
-      "subtitle": "Here’s the next category"
+      "subtitle": "Voici la prochaine catégorie."
      },
      {
       "file": "VO/108162/audio/1.ogg",
-      "subtitle": "Here’s the next one!"
+      "subtitle": "Voici la prochaine !"
      },
      {
       "file": "VO/108162/audio/2.ogg",
-      "subtitle": "This isn’t over yet."
+      "subtitle": "Ce n’est pas encore fini."
      },
      {
       "file": "VO/108162/audio/3.ogg",
-      "subtitle": "Again!"
+      "subtitle": "Encore !"
      },
      {
       "file": "VO/108162/audio/4.ogg",
-      "subtitle": "Let’s do another one."
+      "subtitle": "Faisons-en une autre."
      },
      {
       "file": "VO/108162/audio/5.ogg",
-      "subtitle": "This category should trip you up."
+      "subtitle": "Cette catégorie devrait vous faire trébucher."
      },
      {
       "file": "VO/108162/audio/6.ogg",
-      "subtitle": "There’s no time to hydrate! Here’s your next category."
+      "subtitle": "Pas le temps de vous hydrater ! Voici votre prochaine catégorie."
      },
      {
       "file": "VO/108162/audio/7.ogg",
-      "subtitle": "Eyes up. Check this out."
+      "subtitle": "Levez les yeux. Regardez ça."
      },
      {
       "file": "VO/108162/audio/8.ogg",
-      "subtitle": "New category coming at ya."
+      "subtitle": "Une nouvelle catégorie arrive."
      },
      {
       "file": "VO/108162/audio/9.ogg",
-      "subtitle": "I’m evil for this category."
+      "subtitle": "Je suis cruel avec cette catégorie."
      },
      {
       "file": "VO/108162/audio/10.ogg",
-      "subtitle": "I hope you stretched your fingers. Here’s another one."
+      "subtitle": "J’espère que vous avez étiré vos doigts. Voici une autre catégorie."
      },
      {
       "file": "VO/108162/audio/11.ogg",
-      "subtitle": "Don’t slow down now - there’s more trivia."
+      "subtitle": "Ne ralentissez pas maintenant — il y a encore des questions."
      },
      {
       "file": "VO/108162/audio/12.ogg",
-      "subtitle": "Let’s see how you do with this one!"
+      "subtitle": "Voyons comment vous vous débrouillez avec celle-ci !"
      },
      {
       "file": "VO/108162/audio/13.ogg",
-      "subtitle": "Here’s another obstacle!"
+      "subtitle": "Voici un autre obstacle !"
      },
      {
       "file": "VO/108162/audio/14.ogg",
-      "subtitle": "Once more!"
+      "subtitle": "Encore une fois !"
      },
      {
       "file": "VO/108162/audio/15.ogg",
-      "subtitle": "Here’s another category for ya!"
+      "subtitle": "Voici une autre catégorie pour vous !"
      },
      {
       "file": "VO/108162/audio/16.ogg",
-      "subtitle": "Don’t stop now!"
+      "subtitle": "N'arrêtez pas maintenant !"
      },
      {
       "file": "VO/108162/audio/17.ogg",
-      "subtitle": "Our chase continues."
+      "subtitle": "Notre course continue."
      }
     ]
    },
@@ -2932,27 +2932,27 @@
     "versions": [
      {
       "file": "VO/108164/audio/0.ogg",
-      "subtitle": "Tag, you’re dead!"
+      "subtitle": "Touché, vous êtes mort !"
      },
      {
       "file": "VO/108164/audio/1.ogg",
-      "subtitle": "Gotcha!"
+      "subtitle": "Je vous ai eu !"
      },
      {
       "file": "VO/108164/audio/2.ogg",
-      "subtitle": "I’m going to murder you now."
+      "subtitle": "Je vais vous tuer maintenant."
      },
      {
       "file": "VO/108164/audio/3.ogg",
-      "subtitle": "It’s time to end your suffering."
+      "subtitle": "C'est la fin de votre souffrance."
      },
      {
       "file": "VO/108164/audio/4.ogg",
-      "subtitle": "He’s right behind me, isn’t he?"
+      "subtitle": "Il est juste derrière moi, n’est-ce pas ?"
      },
      {
       "file": "VO/108164/audio/5.ogg",
-      "subtitle": "Boo!"
+      "subtitle": "Bouh !"
      }
     ]
    },
@@ -2964,19 +2964,19 @@
     "versions": [
      {
       "file": "VO/108396/audio/0.ogg",
-      "subtitle": "Math is back, alright!"
+      "subtitle": "Les maths sont de retour, bien sûr !"
      },
      {
       "file": "VO/108396/audio/1.ogg",
-      "subtitle": "It’s time to separate the athletes from the Mathletes."
+      "subtitle": "Il est temps de séparer les athlètes des matheux."
      },
      {
       "file": "VO/108396/audio/2.ogg",
-      "subtitle": "Time to crunch some numbers!"
+      "subtitle": "C'est l'heure de faire des calculs !"
      },
      {
       "file": "VO/108396/audio/3.ogg",
-      "subtitle": "Get out your Scantron and number 2 pencil..."
+      "subtitle": "Sortez votre Scantron et votre crayon à papier numéro 2..."
      }
     ]
    },
@@ -2988,7 +2988,7 @@
     "versions": [
      {
       "file": "VO/108397/audio/0.ogg",
-      "subtitle": "Do as much math as you can before time runs out."
+      "subtitle": "Faites un maximum de calculs avant que le temps ne soit écoulé."
      }
     ]
    },
@@ -3000,7 +3000,7 @@
     "versions": [
      {
       "file": "VO/108398/audio/0.ogg",
-      "subtitle": "If you do the worst, you get punished!"
+      "subtitle": "Si vous faites le pire, vous serez puni(e) !"
      }
     ]
    },
@@ -3012,27 +3012,27 @@
     "versions": [
      {
       "file": "VO/108399/audio/0.ogg",
-      "subtitle": "Let’s go!"
+      "subtitle": "C’est parti !"
      },
      {
       "file": "VO/108399/audio/1.ogg",
-      "subtitle": "Let’s go!"
+      "subtitle": "C’est parti !"
      },
      {
       "file": "VO/108399/audio/2.ogg",
-      "subtitle": "Let’s kick some math!"
+      "subtitle": "Allez, on attaque les maths !"
      },
      {
       "file": "VO/108399/audio/3.ogg",
-      "subtitle": "Bring on the math!"
+      "subtitle": "À vos calculs !"
      },
      {
       "file": "VO/108399/audio/4.ogg",
-      "subtitle": "Ready, set... calculate!"
+      "subtitle": "À vos marques, prêts... calculez !"
      },
      {
       "file": "VO/108399/audio/5.ogg",
-      "subtitle": "Let’s go Math-holes!"
+      "subtitle": "Allez, les matheux !"
      }
     ]
    },
@@ -3044,15 +3044,15 @@
     "versions": [
      {
       "file": "VO/108400/audio/0.ogg",
-      "subtitle": "Don’t tell anyone, but Texas Instruments donated a ton of money to keep this in the game."
+      "subtitle": "Ne le répétez à personne, mais Texas Instruments a généreusement financé le maintien de cette épreuve."
      },
      {
       "file": "VO/108400/audio/1.ogg",
-      "subtitle": "Don’t be distracted! Just focus on the math! Not on my voice!"
+      "subtitle": "Ne vous laissez pas distraire ! Concentrez-vous uniquement sur les maths ! Pas sur ma voix !"
      },
      {
       "file": "VO/108400/audio/2.ogg",
-      "subtitle": "Remember when you said you’d never use math again in middle school? Bet you feel pretty stupid now, huh?"
+      "subtitle": "Vous vous souvenez quand vous disiez au collège que vous ne referez plus jamais de maths ? Je suis sûr que vous vous sentez stupide maintenant, non ?"
      }
     ]
    },
@@ -3064,7 +3064,7 @@
     "versions": [
      {
       "file": "VO/108401/audio/0.ogg",
-      "subtitle": "Time’s almost up!"
+      "subtitle": "Le temps est presque écoulé !"
      }
     ]
    },
@@ -3076,27 +3076,27 @@
     "versions": [
      {
       "file": "VO/108402/audio/0.ogg",
-      "subtitle": "You plus math equals punishment!"
+      "subtitle": "Toi + les maths = punition !"
      },
      {
       "file": "VO/108402/audio/1.ogg",
-      "subtitle": "You’ve failed this Turing test!"
+      "subtitle": "Vous avez échoué à ce test de Turing !"
      },
      {
       "file": "VO/108402/audio/2.ogg",
-      "subtitle": "I just calculated your odds of survival... they’re not good!"
+      "subtitle": "Je viens de calculer vos chances de survie… elles ne sont pas bonnes !"
      },
      {
       "file": "VO/108402/audio/3.ogg",
-      "subtitle": "Time to subtract some fluff from your body!"
+      "subtitle": " Il est temps de soustraire un peu de fibre de votre corps !"
      },
      {
       "file": "VO/108402/audio/4.ogg",
-      "subtitle": "You were bad at math, so now I’m going to stab you. Study hard, kids!"
+      "subtitle": "Vous étiez mauvais en maths, alors maintenant je vais vous poignarder. Travaillez bien, les enfants !"
      },
      {
       "file": "VO/108402/audio/5.ogg",
-      "subtitle": "Wow, you really got your math kicked back there!"
+      "subtitle": "Wow, vous vous êtes vraiment fait démolir en maths là-bas !"
      }
     ]
    },
@@ -3108,35 +3108,35 @@
     "versions": [
      {
       "file": "VO/108403/audio/0.ogg",
-      "subtitle": "I hope you’re thirsty!"
+      "subtitle": "J’espère que vous avez soif !"
      },
      {
       "file": "VO/108403/audio/1.ogg",
-      "subtitle": "What’s thicker than water? Blood. And Mountain Dew!"
+      "subtitle": "Qu’est-ce qui est plus épais que l’eau ? Le sang. Et le Mountain Dew !"
      },
      {
       "file": "VO/108403/audio/2.ogg",
-      "subtitle": "You’d better hope your cup doesn’t runneth over."
+      "subtitle": "Vous feriez mieux d’espérer que votre verre ne déborde pas."
      },
      {
       "file": "VO/108403/audio/3.ogg",
-      "subtitle": "Oh, you pour unfortunate souls..."
+      "subtitle": "Oh, vous, pauvres âmes malchanceuses..."
      },
      {
       "file": "VO/108403/audio/4.ogg",
-      "subtitle": "Not gonna lie. It smells funky in here."
+      "subtitle": "Je ne vais pas vous mentir. Ça sent bizarre ici."
      },
      {
       "file": "VO/108403/audio/5.ogg",
-      "subtitle": "Don’t worry, I made sure none of this blood matches your own type."
+      "subtitle": "Ne vous inquiétez pas, je me suis assuré qu'aucun de ce sang ne corresponde à votre groupe sanguin."
      },
      {
       "file": "VO/108403/audio/6.ogg",
-      "subtitle": "What’s this? A vampire buffet? (long laugh)Ok, let’s play."
+      "subtitle": "Qu'est-ce que c'est ? Un buffet pour vampires ? (longs rires) Ok, jouons."
      },
      {
       "file": "VO/108403/audio/7.ogg",
-      "subtitle": "Let’s raise a glass. to failure!"
+      "subtitle": "Portons un toast… vers l’échec !"
      }
     ]
    },
@@ -3148,19 +3148,19 @@
     "versions": [
      {
       "file": "VO/108409/audio/0.ogg",
-      "subtitle": "Oopsie daisy!"
+      "subtitle": "Oops !"
      },
      {
       "file": "VO/108409/audio/1.ogg",
-      "subtitle": "Party foul!"
+      "subtitle": "Faute de soirée !"
      },
      {
       "file": "VO/108409/audio/2.ogg",
-      "subtitle": "You fool!"
+      "subtitle": "Imbécile !"
      },
      {
       "file": "VO/108409/audio/3.ogg",
-      "subtitle": "Awk-ward!"
+      "subtitle": "Maladroit !"
      }
     ]
    },
@@ -3172,7 +3172,7 @@
     "versions": [
      {
       "file": "VO/108660/audio/0.ogg",
-      "subtitle": "If you can’t get at least 10 right, you get punished!"
+      "subtitle": "Si vous n’en réussissez pas au moins 10, vous serez puni(e) !"
      }
     ]
    },
@@ -3184,7 +3184,7 @@
     "versions": [
      {
       "file": "VO/108661/audio/0.ogg",
-      "subtitle": "And everyone else will be playing along."
+      "subtitle": "Et tous les autres participeront aussi."
      }
     ]
    },
@@ -3196,7 +3196,7 @@
     "versions": [
      {
       "file": "VO/108662/audio/0.ogg",
-      "subtitle": "If they do better than you, you get punished!"
+      "subtitle": "Si les autres font mieux que vous, vous serez puni(e) !"
      }
     ]
    },
@@ -3208,7 +3208,7 @@
     "versions": [
      {
       "file": "VO/108689/audio/0.ogg",
-      "subtitle": "Don’t get caught in the dark."
+      "subtitle": "Ne vous faites pas prendre dans le noir."
      }
     ]
    },
@@ -3220,7 +3220,7 @@
     "versions": [
      {
       "file": "VO/109221/audio/0.ogg",
-      "subtitle": "If you are off by more than 5, I will punish you!"
+      "subtitle": "Si votre réponse s’écarte de plus de 5, je vous punirai !"
      }
     ]
    },
@@ -3232,7 +3232,7 @@
     "versions": [
      {
       "file": "VO/109223/audio/0.ogg",
-      "subtitle": "And the safe players get to play as well."
+      "subtitle": "Et les joueurs en sécurité participeront aussi."
      }
     ]
    },
@@ -3244,7 +3244,7 @@
     "versions": [
      {
       "file": "VO/109224/audio/0.ogg",
-      "subtitle": "If they do better than you, you get punished!"
+      "subtitle": "Si les autres font mieux que vous, vous serez puni(e) !"
      }
     ]
    },
@@ -3256,7 +3256,7 @@
     "versions": [
      {
       "file": "VO/109289/audio/0.ogg",
-      "subtitle": "Come with me!"
+      "subtitle": "Venez avec moi !"
      }
     ]
    },
@@ -3268,7 +3268,7 @@
     "versions": [
      {
       "file": "VO/109308/audio/0.ogg",
-      "subtitle": "Uh oh, camp moral is at an all time low."
+      "subtitle": "Oh là là, le moral est au plus bas."
      }
     ]
    },
@@ -3280,7 +3280,7 @@
     "versions": [
      {
       "file": "VO/109309/audio/0.ogg",
-      "subtitle": "“We need a new camp counselor…. it should be… YOU.”"
+      "subtitle": "“Nous avons besoin d’un nouvel animateur… ce devrait être… VOUS.”"
      }
     ]
    },
@@ -3292,7 +3292,7 @@
     "versions": [
      {
       "file": "VO/109310/audio/0.ogg",
-      "subtitle": "“Which one does the counselor think we should pick?”"
+      "subtitle": "“Lequel pensez-vous que l’animateur souhaite que nous choisissions ?”"
      }
     ]
    },
@@ -3304,7 +3304,7 @@
     "versions": [
      {
       "file": "VO/109311/audio/0.ogg",
-      "subtitle": "Hey everyone - the camp counselor feels very sure this is the right answer."
+      "subtitle": "Hé tout le monde -  l’animateur est convaincu que c’est la bonne réponse."
      }
     ]
    },
@@ -3316,7 +3316,7 @@
     "versions": [
      {
       "file": "VO/109312/audio/0.ogg",
-      "subtitle": "No answer? You’ll definitely be getting punished. Now for the rest of you…"
+      "subtitle": "Aucune réponse ? Vous serez assurément puni(e). Maintenant, pour les autres…"
      }
     ]
    },
@@ -3328,7 +3328,7 @@
     "versions": [
      {
       "file": "VO/109313/audio/0.ogg",
-      "subtitle": "Time for a new Camp Counselor"
+      "subtitle": "C'est l'heure d'un nouvel animateur."
      }
     ]
    },
@@ -3340,7 +3340,7 @@
     "versions": [
      {
       "file": "VO/109372/audio/0.ogg",
-      "subtitle": "Time to get counseled!"
+      "subtitle": "C'est l'heure de se faire conseiller !"
      }
     ]
    },
@@ -3352,7 +3352,7 @@
     "versions": [
      {
       "file": "VO/109373/audio/0.ogg",
-      "subtitle": "I’ll choose a camp counselor and you’ll see their trivia answer."
+      "subtitle": "Je vais désigner un animateur, et vous découvrirez sa réponse à la question."
      }
     ]
    },
@@ -3364,19 +3364,19 @@
     "versions": [
      {
       "file": "VO/109374/audio/0.ogg",
-      "subtitle": "Our night begins..."
+      "subtitle": "Notre soirée commence…"
      },
      {
       "file": "VO/109374/audio/1.ogg",
-      "subtitle": "Let the games begin..."
+      "subtitle": "Que les jeux commencent…"
      },
      {
       "file": "VO/109374/audio/2.ogg",
-      "subtitle": "Let’s party!"
+      "subtitle": "Faisons la fête !"
      },
      {
       "file": "VO/109374/audio/3.ogg",
-      "subtitle": "Let the games begin!"
+      "subtitle": "Que les jeux commencent !"
      }
     ]
    },
@@ -3388,15 +3388,15 @@
     "versions": [
      {
       "file": "VO/109375/audio/0.ogg",
-      "subtitle": "Just a few more hours left in the game..."
+      "subtitle": "Il ne reste que quelques heures de jeu…"
      },
      {
       "file": "VO/109375/audio/1.ogg",
-      "subtitle": "Only three hours left."
+      "subtitle": "Il ne reste plus que trois heures."
      },
      {
       "file": "VO/109375/audio/2.ogg",
-      "subtitle": "The party goes till 3 am."
+      "subtitle": "La fête se termine à 3 heures du matin."
      }
     ]
    },
@@ -3408,15 +3408,15 @@
     "versions": [
      {
       "file": "VO/109376/audio/0.ogg",
-      "subtitle": "It’s the last hour before the final trial.."
+      "subtitle": "Il ne reste qu’une heure avant l’épreuve finale.."
      },
      {
       "file": "VO/109376/audio/1.ogg",
-      "subtitle": "We’ve entered the final hour."
+      "subtitle": "Nous voici dans la dernière heure."
      },
      {
       "file": "VO/109376/audio/2.ogg",
-      "subtitle": "I knew I shouldn’t have had that 5pm coffee. The party ends in one hour."
+      "subtitle": "Je savais que je n’aurais pas dû prendre ce café à 17 heures. La fête se termine dans une heure."
      }
     ]
    },
@@ -3428,7 +3428,7 @@
     "versions": [
      {
       "file": "VO/109448/audio/0.ogg",
-      "subtitle": "Estimate how much blood to add to finish filling your glass"
+      "subtitle": "Estimez la quantité de sang à ajouter pour remplir complètement votre verre."
      }
     ]
    },
@@ -3440,7 +3440,7 @@
     "versions": [
      {
       "file": "VO/109449/audio/0.ogg",
-      "subtitle": "I’ll punish any of you that overflow it"
+      "subtitle": "Je punirai quiconque fera déborder le verre."
      }
     ]
    },
@@ -3452,7 +3452,7 @@
     "versions": [
      {
       "file": "VO/109450/audio/0.ogg",
-      "subtitle": "Or if you have less than a safe player"
+      "subtitle": "Ou si vous avez moins qu’un joueur en sécurité."
      }
     ]
    },
@@ -3464,7 +3464,7 @@
     "versions": [
      {
       "file": "VO/109451/audio/0.ogg",
-      "subtitle": "Or if any of you have the least blood"
+      "subtitle": "Ou si l’un d’entre vous a le moins de sang."
      }
     ]
    },
@@ -3476,19 +3476,19 @@
     "versions": [
      {
       "file": "VO/109452/audio/0.ogg",
-      "subtitle": "Now who went over?"
+      "subtitle": "Qui a dépassé la limite ?"
      },
      {
-      "subtitle": "Let’s see who overflowed their cup."
+      "subtitle": "Voyons qui a fait déborder son verre."
      },
      {
-      "subtitle": "Now whose cup runneth over?"
+      "subtitle": "À qui le verre déborde-t-il maintenant ?"
      },
      {
-      "subtitle": "Who sucks at  pouring?"
+      "subtitle": "Qui est mauvais en versement ?"
      },
      {
-      "subtitle": "Whose the worst barista? Let’s find out..."
+      "subtitle": "Qui est le pire barista ? Découvrons-le…"
      }
     ]
    },
@@ -3500,7 +3500,7 @@
     "versions": [
      {
       "file": "VO/109453/audio/0.ogg",
-      "subtitle": "Which of you put in less than a safe player?"
+      "subtitle": "Lequel d’entre vous a mis moins qu’un joueur en sécurité ?"
      }
     ]
    },
@@ -3512,7 +3512,7 @@
     "versions": [
      {
       "file": "VO/109454/audio/0.ogg",
-      "subtitle": "Who put in the least?"
+      "subtitle": "Qui en a mis le moins ?"
      }
     ]
    },
@@ -3524,7 +3524,7 @@
     "versions": [
      {
       "file": "VO/109625/audio/0.ogg",
-      "subtitle": "It’s time for a little retribution!"
+      "subtitle": "C'est l'heure d'une petite punition !"
      }
     ]
    },
@@ -3536,11 +3536,11 @@
     "versions": [
      {
       "file": "VO/109626/audio/0.ogg",
-      "subtitle": "Punished players: vote for a player to LOSE a FINGER"
+      "subtitle": "Joueurs punis : votez pour un joueur qui PERDRA un DOIGT."
      },
      {
       "file": "VO/109626/audio/1.ogg",
-      "subtitle": "Ghosts: vote for a player to LOSE a FINGER."
+      "subtitle": "Fantômes : votez pour un joueur qui PERDRA un DOIGT."
      }
     ]
    },
@@ -3552,7 +3552,7 @@
     "versions": [
      {
       "file": "VO/109627/audio/0.ogg",
-      "subtitle": "Who’s losing a finger this time?"
+      "subtitle": "Qui va perdre un doigt cette fois ?"
      }
     ]
    },
@@ -3564,7 +3564,7 @@
     "versions": [
      {
       "file": "VO/109628/audio/0.ogg",
-      "subtitle": "And they picked... you!"
+      "subtitle": "Et ils ont choisi… vous !"
      }
     ]
    },
@@ -3576,19 +3576,19 @@
     "versions": [
      {
       "file": "VO/110008/audio/0.ogg",
-      "subtitle": "We’re going to play Chalices."
+      "subtitle": "Nous allons jouer aux Calices."
      },
      {
-      "subtitle": "I hope you’re thirsty!"
+      "subtitle": "J’espère que vous avez soif !"
      },
      {
-      "subtitle": "Let’s put some malice in your chalice!"
+      "subtitle": "Ajoutons un peu de malice dans votre calice !"
      },
      {
-      "subtitle": "[muttering] Chalice in Wonderland...? Think, you idiot! Think of a pun!"
+      "subtitle": "[murmurant] Calice au pays des merveilles… ? Réfléchis, idiot ! Trouve un jeu de mots !"
      },
      {
-      "subtitle": "How about a nice, refreshing glass... of POISON??"
+      "subtitle": "Et si on vous servait un bon verre… de POISON ??"
      }
     ]
    },
@@ -3600,7 +3600,7 @@
     "versions": [
      {
       "file": "VO/110009/audio/0.ogg",
-      "subtitle": "Pick a chalice to drop your poison in."
+      "subtitle": "Choisissez un calice pour y verser votre poison."
      }
     ]
    },
@@ -3612,7 +3612,7 @@
     "versions": [
      {
       "file": "VO/110010/audio/0.ogg",
-      "subtitle": "Some of you didn’t use your poison pellet. So I’ll have to add a few of my own!"
+      "subtitle": "Certains d’entre vous n’ont pas utilisé leur pastille de poison. Je vais donc en ajouter moi-même !"
      }
     ]
    },
@@ -3624,7 +3624,7 @@
     "versions": [
      {
       "file": "VO/110011/audio/0.ogg",
-      "subtitle": "What do you think I am? Made of poison pellets?"
+      "subtitle": "Qu'est-ce que vous croyez ? Que je suis fait de pastilles de poison ?"
      }
     ]
    },
@@ -3636,7 +3636,7 @@
     "versions": [
      {
       "file": "VO/110012/audio/0.ogg",
-      "subtitle": "Pick a chalice to drink from"
+      "subtitle": "Choisissez un calice dans lequel boire."
      }
     ]
    },
@@ -3648,7 +3648,7 @@
     "versions": [
      {
       "file": "VO/110013/audio/0.ogg",
-      "subtitle": "Now it’s your turn to play."
+      "subtitle": "À vous de jouer maintenant."
      }
     ]
    },
@@ -3660,19 +3660,19 @@
     "versions": [
      {
       "file": "VO/110014/audio/0.ogg",
-      "subtitle": "Mmmm! Tasty!"
+      "subtitle": "Mmmm ! Délicieux !"
      },
      {
-      "subtitle": "That’s drink-tacular!"
+      "subtitle": "Ça, c’est du spectacle !"
      },
      {
-      "subtitle": "O liquid! So sloshy and pure!"
+      "subtitle": "Ô liquide ! Si clapotant et pur !"
      },
      {
-      "subtitle": "Bottoms up!"
+      "subtitle": "Santé !"
      },
      {
-      "subtitle": "Sweet Dionysus, that’s tasty!"
+      "subtitle": "Gentil Dionysos, c’est délicieux !"
      }
     ]
    },
@@ -3684,16 +3684,16 @@
     "versions": [
      {
       "file": "VO/110015/audio/0.ogg",
-      "subtitle": "Aww no one drank any poison."
+      "subtitle": "Ohh personne n’a bu de poison."
      },
      {
-      "subtitle": "No one drank poison?"
+      "subtitle": "Personne n’a bu de poison ?"
      },
      {
-      "subtitle": "Not one of you dum-dums sipped on a little poison?"
+      "subtitle": "Aucun d’entre vous, petits malins, n’a bu un peu de poison ?"
      },
      {
-      "subtitle": "Nobody drank from a poisoned chalice?!"
+      "subtitle": "Personne n’a bu dans un calice empoisonné ?!"
      }
     ]
    },
@@ -3705,19 +3705,19 @@
     "versions": [
      {
       "file": "VO/110016/audio/0.ogg",
-      "subtitle": "So if you just feel sick it’s just your diet."
+      "subtitle": "Si vous vous sentez juste un peu malade, c’est à cause de votre régime."
      },
      {
-      "subtitle": "This is the worst day of my life, and that includes Joann Fabrics going out of business."
+      "subtitle": "C’est le pire jour de ma vie... avec la fermeture de Joann Fabrics."
      },
      {
-      "subtitle": "So you think you deserve a better death than Socrates, huh?"
+      "subtitle": "Alors vous pensez mériter une mort plus douce que Socrate, hein ?"
      },
      {
-      "subtitle": "All my beautiful poison wasted! Waaaasted!"
+      "subtitle": "Tout mon magnifique poison gâché ! Gââââché !"
      },
      {
-      "subtitle": "This is like Woodstock all over again..."
+      "subtitle": "C’est comme Woodstock, encore et encore…"
      }
     ]
    },
@@ -3729,7 +3729,7 @@
     "versions": [
      {
       "file": "VO/110017/audio/0.ogg",
-      "subtitle": "But let’s not forget that not drinking is also a punishable offense"
+      "subtitle": "Mais n’oublions pas que ne pas boire est aussi une  punition."
      }
     ]
    },
@@ -3741,7 +3741,7 @@
     "versions": [
      {
       "file": "VO/110018/audio/0.ogg",
-      "subtitle": "Wait! Some of you didn’t drink? I guess that means I have to kill you mysel"
+      "subtitle": "Attendez ! Certains d’entre vous n’ont pas bu ? J'imagine que je dois vous tuer moi-même."
      }
     ]
    },
@@ -3753,7 +3753,7 @@
     "versions": [
      {
       "file": "VO/110019/audio/0.ogg",
-      "subtitle": "I’ve given each safe player a poison pellet"
+      "subtitle": "J’ai donné à chaque joueur en sécurité une pastille de poison."
      }
     ]
    },
@@ -3765,7 +3765,7 @@
     "versions": [
      {
       "file": "VO/110020/audio/0.ogg",
-      "subtitle": "Drinking from a cup with a poison pellet means you get punished... I mean, obviously, duh."
+      "subtitle": "Boire dans un calice contenant une pastille de poison signifie que vous serez puni(e)… enfin, évidemment, bien sûr."
      }
     ]
    },
@@ -3777,7 +3777,7 @@
     "versions": [
      {
       "file": "VO/110022/audio/0.ogg",
-      "subtitle": "Now let’s see what everyone drank."
+      "subtitle": "Maintenant, voyons ce que chacun a bu."
      }
     ]
    },
@@ -3789,7 +3789,7 @@
     "versions": [
      {
       "file": "VO/110023/audio/0.ogg",
-      "subtitle": "Now let’s see what you drank."
+      "subtitle": "Maintenant, voyons ce que vous avez bu."
      }
     ]
    },
@@ -3801,7 +3801,7 @@
     "versions": [
      {
       "file": "VO/110024/audio/0.ogg",
-      "subtitle": "Well... That’s a real flaw in this game."
+      "subtitle": "Eh bien… voilà une réelle faille dans ce jeu."
      }
     ]
    },
@@ -3813,19 +3813,19 @@
     "versions": [
      {
       "file": "VO/110025/audio/0.ogg",
-      "subtitle": "Drink something!"
+      "subtitle": "Buvez quelque chose !"
      },
      {
-      "subtitle": "Hurry up and drink!"
+      "subtitle": "Dépêchez-vous de boire !"
      },
      {
-      "subtitle": "Chug! Chug! Chug!"
+      "subtitle": "Cul sec ! Cul sec ! Cul sec !"
      },
      {
-      "subtitle": "Hurry up and die already!"
+      "subtitle": "Mais dépêchez-vous de mourir, enfin !"
      },
      {
-      "subtitle": "Time’s almost up! Take a drink!"
+      "subtitle": "Le temps est presque écoulé ! Buvez !"
      }
     ]
    },
@@ -3837,7 +3837,7 @@
     "versions": [
      {
       "file": "VO/110026/audio/0.ogg",
-      "subtitle": "Pick a chalice already!"
+      "subtitle": "Choisissez un calice, enfin !"
      }
     ]
    },
@@ -3849,7 +3849,7 @@
     "versions": [
      {
       "file": "VO/110027/audio/0.ogg",
-      "subtitle": "Half of these chalices are poisoned."
+      "subtitle": "La moitié de ces calices sont empoisonnés."
      }
     ]
    },
@@ -3861,7 +3861,7 @@
     "versions": [
      {
       "file": "VO/110028/audio/0.ogg",
-      "subtitle": "Now, let’s see where that poison is"
+      "subtitle": "Maintenant, voyons où se trouve ce poison. "
      }
     ]
    },
@@ -3873,10 +3873,10 @@
     "versions": [
      {
       "file": "VO/110029/audio/0.ogg",
-      "subtitle": "Oh great, we didn’t even get to the drinking poison part!"
+      "subtitle": "Oh génial, nous n’en sommes même pas arrivés à la partie où l’on boit du poison ! "
      },
      {
-      "subtitle": "What the heck? You just drank my Mountain Dew Code Red! I was saving that!"
+      "subtitle": "Mais qu’est-ce que vous faites ? Vous venez de boire mon Mountain Dew Code Red ! Je l’avais mis de côté !"
      }
     ]
    },
@@ -3888,13 +3888,13 @@
     "versions": [
      {
       "file": "VO/110030/audio/0.ogg",
-      "subtitle": "Now THAT’S what I call a poisoning!"
+      "subtitle": "ÇA, c’est ce que j’appelle un empoisonnement !"
      },
      {
-      "subtitle": "Now THAT’S a Bingo! Wait, wrong minigame..."
+      "subtitle": "ÇA, c’est un Bingo ! Oups, mauvais mini-jeu…"
      },
      {
-      "subtitle": "Ya poisoned!"
+      "subtitle": "Empoisonné !"
      }
     ]
    },
@@ -3906,7 +3906,7 @@
     "versions": [
      {
       "file": "VO/110033/audio/0.ogg",
-      "subtitle": "Friendship bracelet time!"
+      "subtitle": "C’est l’heure des bracelets d’amitié !"
      }
     ]
    },
@@ -3918,7 +3918,7 @@
     "versions": [
      {
       "file": "VO/110034/audio/0.ogg",
-      "subtitle": "Two players will share the same fate"
+      "subtitle": "Deux joueurs partageront le même destin."
      }
     ]
    },
@@ -3930,7 +3930,7 @@
     "versions": [
      {
       "file": "VO/110035/audio/0.ogg",
-      "subtitle": "Here, you get one. Now give the other to your bestie."
+      "subtitle": "Tenez, en voici un. Maintenant, offrez l’autre à votre meilleur(e) ami(e)."
      }
     ]
    },
@@ -3942,7 +3942,7 @@
     "versions": [
      {
       "file": "VO/110036/audio/0.ogg",
-      "subtitle": "Awww, don’t want to make any friends? Guess you’re getting punished."
+      "subtitle": "Ohhh, vous ne voulez pas vous faire des amis ? Eh bien, vous allez être puni(e). "
      }
     ]
    },
@@ -3954,7 +3954,7 @@
     "versions": [
      {
       "file": "VO/110037/audio/0.ogg",
-      "subtitle": "If either of you get this wrong, you’ll both be punished!"
+      "subtitle": "Si l’un ou l'une de vous deux se trompe, vous serez tous les deux puni(e)s !"
      }
     ]
    },
@@ -3966,7 +3966,7 @@
     "versions": [
      {
       "file": "VO/110038/audio/0.ogg",
-      "subtitle": "You get one. Now give the others to your best friends."
+      "subtitle": "Vous en recevez un. Maintenant, offrez les autres à vos meilleur(e)s ami(e)s."
      }
     ]
    },
@@ -3978,7 +3978,7 @@
     "versions": [
      {
       "file": "VO/110039/audio/0.ogg",
-      "subtitle": "If any of you get this wrong, you’ll all be punished."
+      "subtitle": "Si l’un ou l’une d’entre vous se trompe, vous serez tous punis."
      }
     ]
    },
@@ -3990,7 +3990,7 @@
     "versions": [
      {
       "file": "VO/110040/audio/0.ogg",
-      "subtitle": "Who will you give the friendship bracelets to?"
+      "subtitle": "À qui allez-vous offrir les bracelets d’amitié ?"
      }
     ]
    },
