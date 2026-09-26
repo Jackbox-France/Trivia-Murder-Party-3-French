@@ -122,13 +122,13 @@
     {
      "textKey": "TUT_FINGERVOTE_1",
      "value": [
-      null
+      "Ce joueur perdra une réponse aléatoire à la question jusqu'à la manche finale."
      ]
     },
     {
      "textKey": "TUT_FLASHLIGHT_0",
      "value": [
-      "Ce joueur perdra une réponse aléatoire à une question jusqu’à la manche finale."
+      "Les questions seront désormais dans le noir. Je vais tous vous donner une lampe torche."
      ]
     },
     {
@@ -320,19 +320,19 @@
     {
      "textKey": "TUT_TRUNKS_0",
      "value": [
-      "Chaque joueur en sécurité a une forme de bombe qu’il placera secrètement sur une grille de valises."
+      "Chaque joueur en sécurité a une forme de bombe qu’il placera secrètement sur une grille de mallettes."
      ]
     },
     {
      "textKey": "TUT_TRUNKS_1",
      "value": [
-      "Chaque joueur en danger choisira une valise dans laquelle s’y cacher."
+      "Chaque joueur en danger choisira une mallette dans laquelle s’y cacher."
      ]
     },
     {
      "textKey": "TUT_TRUNKS_2",
      "value": [
-      "Si votre valise se fait toucher, vous mourez."
+      "Si votre mallette se fait toucher, vous mourez."
      ]
     },
     {
