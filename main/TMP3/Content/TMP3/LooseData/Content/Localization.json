@@ -352,6 +352,42 @@
      "value": [
       "S’ils réussissent, vous mourez."
      ]
+    },
+    {
+     "textKey": "TUT_PUPPETS_0",
+     "value": [
+      "Vous allez créer des ombres avec une main coupée."
+     ]
+    },
+    {
+     "textKey": "TUT_PUPPETS_1",
+     "value": [
+      "Tournez-la pour faire correspondre à la forme demandée."
+     ]
+    },
+    {
+     "textKey": "TUT_PUPPETS_2",
+     "value": [
+      "Le joueur avec le score le plus faible, meurt !"
+     ]
+    },
+    {
+     "textKey": "TUT_PUPPETS_SAFE_0",
+     "value": [
+      "Vous allez créer des ombres avec une main coupée."
+     ]
+    },
+    {
+     "textKey": "TUT_PUPPETS_SAFE_1",
+     "value": [
+      "Tournez-la pour faire correspondre à la forme demandée."
+     ]
+    },
+    {
+     "textKey": "TUT_PUPPETS_SAFE_2",
+     "value": [
+      "Si un joueur en sécurité obtient un meilleur score que vous, vous mourez !"
+     ]
     }
    ]
   }

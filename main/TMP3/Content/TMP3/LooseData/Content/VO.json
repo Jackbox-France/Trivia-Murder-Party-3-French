@@ -11783,11 +11783,247 @@
      {
       "file": "VO/122330/audio/0.ogg",
       "subtitle": "Argh, personne n’est mort parce que ma vie est vraiment nulle !"
+     },
+     {
+      "file": "VO/122330/audio/1.ogg",
+      "subtitle": "Je dois avouer, joueurs en sécurité, que vous avez vraiment foiré !"
+     },
+     {
+      "file": "VO/122330/audio/2.ogg",
+      "subtitle": "Aucun perdant ?! Mauvaise forme, joueurs en sécurité !"
+     },
+     {
+      "file": "VO/122330/audio/3.ogg",
+      "subtitle": "Aucun perdant ?! J’ai une forme de main pour vous, et elle ne nécessite qu’un seul doigt !"
      }
     ]
    },
    "id": "122330",
    "name": "SHADOW_NOLOSER"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122503/audio/0.ogg",
+      "subtitle": "Avant de commencer, je vous laisse un peu de temps pour vous entraîner à tourner les mains."
+     }
+    ]
+   },
+   "id": "122503",
+   "name": "SHADOW_PRACTICE"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122504/audio/0.ogg",
+      "subtitle": "Le jeu commence MAINTENANT !"
+     }
+    ]
+   },
+   "id": "122504",
+   "name": "SHADOW_GAME_STARTS"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122651/audio/0.ogg",
+      "subtitle": "Nous allons jouer au Grillage."
+     },
+     {
+      "file": "VO/122651/audio/1.ogg",
+      "subtitle": "Êtes-vous prêt pour encore plus d’action ?"
+     },
+     {
+      "file": "VO/122651/audio/2.ogg",
+      "subtitle": "Ce prochain jeu pourrait vous griller."
+     },
+     {
+      "file": "VO/122651/audio/3.ogg",
+      "subtitle": "Ces chamallows n’ont pas l’air géniaux ?!"
+     },
+     {
+      "file": "VO/122651/audio/4.ogg",
+      "subtitle": "Il est temps pour un dessert mortel."
+     },
+     {
+      "file": "VO/122651/audio/5.ogg",
+      "subtitle": "Ce jeu est trop bien, les amis ! J’ai tellement besoin de votre approbation. Dites-moi que je suis cool !"
+     },
+     {
+      "file": "VO/122651/audio/6.ogg",
+      "subtitle": "Venez, installez-vous DANS le feu."
+     }
+    ]
+   },
+   "id": "122651",
+   "name": "ROASTED_TITLE"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122652/audio/0.ogg",
+      "subtitle": "On vous présentera une série de nuances de chamallows. Faites griller les nouveaux chamallows pour correspondre à chaque nuance du mieux possible. À la fin, votre meilleure correspondance sera révélée. Le joueur avec le score le plus bas meurt !"
+     }
+    ]
+   },
+   "id": "122652",
+   "name": "ROASTED_TUT_ALLATRISK"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122653/audio/0.ogg",
+      "subtitle": "On vous présentera une série de nuances de chamallows. Faites griller les nouveaux chamallows pour correspondre à chaque nuance du mieux possible. À la fin, votre meilleure correspondance sera révélée. Si un joueur en sécurité s'en sort mieux que vous, vous mourez !"
+     }
+    ]
+   },
+   "id": "122653",
+   "name": "ROASTED_TUT_SAFEANDATRISK"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122654/audio/0.ogg",
+      "subtitle": "Votre temps de grillage commence MAINTENANT !"
+     },
+     {
+      "file": "VO/122654/audio/1.ogg",
+      "subtitle": "Prenez vos bâtons et commencez à griller !"
+     },
+     {
+      "file": "VO/122654/audio/2.ogg",
+      "subtitle": "C'est l'heure de griller !"
+     }
+    ]
+   },
+   "id": "122654",
+   "name": "ROASTED_START_ROASTING"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122655/audio/0.ogg",
+      "subtitle": "Comment tout le monde s’en est sorti ? Voyons votre meilleur chamallow."
+     },
+     {
+      "file": "VO/122655/audio/1.ogg",
+      "subtitle": "Je vais maintenant examiner le meilleur chamallow de chacun."
+     },
+     {
+      "file": "VO/122655/audio/2.ogg",
+      "subtitle": "Il est temps de comparer les chamallows."
+     }
+    ]
+   },
+   "id": "122655",
+   "name": "ROASTED_EVERYONE_REVEAL"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122656/audio/0.ogg",
+      "subtitle": "Joueurs en danger, commençons par examiner vos chamallows d'abord."
+     },
+     {
+      "file": "VO/122656/audio/1.ogg",
+      "subtitle": "Joueurs en danger, montrez-nous votre meilleur chamallow."
+     }
+    ]
+   },
+   "id": "122656",
+   "name": "ROASTED_ATRISK_REVEAL"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122657/audio/0.ogg",
+      "subtitle": "Un joueur en sécurité a-t-il fait une meilleure correspondance ? Voyons cela."
+     },
+     {
+      "file": "VO/122657/audio/1.ogg",
+      "subtitle": "Bien, joueurs en sécurité, c’est à vous maintenant."
+     },
+     {
+      "file": "VO/122657/audio/2.ogg",
+      "subtitle": "Bien, joueurs en sécurité, à vous de conclure."
+     }
+    ]
+   },
+   "id": "122657",
+   "name": "ROASTED_SAFE_REVEAL"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122658/audio/0.ogg",
+      "subtitle": "Le chamallow le plus triste appartenait à VOUS !"
+     },
+     {
+      "file": "VO/122658/audio/1.ogg",
+      "subtitle": "Le titre de pire grilleur revient à VOUS !"
+     }
+    ]
+   },
+   "id": "122658",
+   "name": "ROASTED_LOSER_HIGHLIGHT"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122659/audio/0.ogg",
+      "subtitle": "Les joueurs en sécurité ont bien compris la mission !"
+     },
+     {
+      "file": "VO/122659/audio/1.ogg",
+      "subtitle": "Bien joué ! Certains d’entre vous ont géré !"
+     },
+     {
+      "file": "VO/122659/audio/2.ogg",
+      "subtitle": "Bien joué pour avoir écrasé les autres, joueurs en sécurité !"
+     },
+     {
+      "file": "VO/122659/audio/3.ogg",
+      "subtitle": "Vous vous êtes fait griller !"
+     }
+    ]
+   },
+   "id": "122659",
+   "name": "ROASTED_SAFE_VICTORY"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122660/audio/0.ogg",
+      "subtitle": "Joueurs en sécurité, vos esprits sont-ils pleines de fibres ?!"
+     },
+     {
+      "file": "VO/122660/audio/1.ogg",
+      "subtitle": "Un joueur en sécurité ne vous a pas battu, mais j’avais teeeellement envie de vous tuer !"
+     },
+     {
+      "file": "VO/122660/audio/2.ogg",
+      "subtitle": "On dirait que ce sont les joueurs en sécurité qui m’ont grillé !"
+     },
+     {
+      "file": "VO/122660/audio/3.ogg",
+      "subtitle": "Je ne suis pas en colère contre vous, joueurs en sécurité. Je suis juste déçu."
+     }
+    ]
+   },
+   "id": "122660",
+   "name": "ROASTED_SAFE_NOVICTORY"
   }
  ]
 }
