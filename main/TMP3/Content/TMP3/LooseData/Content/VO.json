@@ -2765,6 +2765,18 @@
      {
       "file": "VO/108155/audio/0.ogg",
       "subtitle": "J’en ai assez de jouer. Il est temps d’en finir une bonne fois pour toutes."
+      },
+     {
+      "file": "VO/108155/audio/1.ogg",
+      "subtitle": "Voyons qui obtiendra son badge d’évasion."
+     },
+     {
+      "file": "VO/108155/audio/2.ogg",
+      "subtitle": "Désolé, mais le camp touche à sa fin !"
+     },
+     {
+      "file": "VO/108155/audio/3.ogg",
+      "subtitle": "Il est temps de partir pour un footing matinal !"
      }
     ]
    },
@@ -9430,6 +9442,22 @@
      {
       "file": "VO/117789/audio/0.ogg",
       "subtitle": "Je sais que je dois faire mieux. Je ne suis pas fou, voix de ma mère défunte qui me parle par télépathie !"
+     },
+     {
+      "file": "VO/117789/audio/1.ogg",
+      "subtitle": "Pardonne-moi, maman, s’il te plaît !"
+     },
+     {
+      "file": "VO/117789/audio/2.ogg",
+      "subtitle": "Ils ont juste eu de la chance ! Ça ne se reproduira pas !"
+     },
+     {
+      "file": "VO/117789/audio/3.ogg",
+      "subtitle": "Ne t'inquiètes pas. Ils seront tous morts au lever du soleil."
+     },
+     {
+      "file": "VO/117789/audio/4.ogg",
+      "subtitle": "Je sais que je dois faire mieux !"
      }
     ]
    },
@@ -11682,7 +11710,7 @@
     "versions": [
      {
       "file": "VO/122303/audio/0.ogg",
-      "subtitle": "Tournez votre main coupée pour que son ombre corresponde à autant de formes que possible avant la fin du temps imparti."
+      "subtitle": "Tournez votre main pour que son ombre corresponde à autant de formes que possible avant la fin du temps imparti."
      }
     ]
    },
@@ -11734,11 +11762,11 @@
     "versions": [
      {
       "file": "VO/122306/audio/0.ogg",
-      "subtitle": "Vous, là, venez avec moi..."
+      "subtitle": "Vous là, venez avec moi..."
      },
      {
       "file": "VO/122306/audio/1.ogg",
-      "subtitle": "Donnez-moi votre main..."
+      "subtitle": "Vous là, donnez-moi votre main..."
      },
      {
       "file": "VO/122306/audio/2.ogg",
@@ -11846,7 +11874,7 @@
      },
      {
       "file": "VO/122651/audio/4.ogg",
-      "subtitle": "Il est temps pour un dessert mortel."
+      "subtitle": "Mort par chocolat ? Nan, mort par chamallow !"
      },
      {
       "file": "VO/122651/audio/5.ogg",
@@ -11966,11 +11994,11 @@
     "versions": [
      {
       "file": "VO/122658/audio/0.ogg",
-      "subtitle": "Le chamallow le plus triste appartenait à VOUS !"
+      "subtitle": "Et le chamallow le plus triste appartenait à VOUS !"
      },
      {
       "file": "VO/122658/audio/1.ogg",
-      "subtitle": "Le titre de pire grilleur revient à VOUS !"
+      "subtitle": "Bravo ! Vous avez le titre de PIRE grilleur !"
      }
     ]
    },
@@ -12024,6 +12052,70 @@
    },
    "id": "122660",
    "name": "ROASTED_SAFE_NOVICTORY"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122679/audio/0.ogg",
+      "subtitle": "Mon dieu, ça pue ici !"
+     },
+     {
+      "file": "VO/122679/audio/1.ogg",
+      "subtitle": "Quelqu’un pourrait-il ouvrir une fenêtre, s’il vous plaît !"
+     },
+     {
+      "file": "VO/122679/audio/2.ogg",
+      "subtitle": "Vous ne pouviez pas attendre d’être dehors !?"
+     },
+     {
+      "file": "VO/122679/audio/3.ogg",
+      "subtitle": "Mon dieu, ça empeste ici ! Vous devriez tous consulter un médecin !"
+     },
+     {
+      "file": "VO/122679/audio/4.ogg",
+      "subtitle": "Vous êtes en train de fumiger cet endroit !"
+     },
+     {
+      "file": "VO/122679/audio/5.ogg",
+      "subtitle": "Beurk, ça pue ici, je suis flatté. Vous devez avoir peur !"
+     }
+    ]
+   },
+   "id": "122679",
+   "name": "FART_REACTION_INSIDE"
+  },
+  {
+   "audio": {
+    "versions": [
+     {
+      "file": "VO/122680/audio/0.ogg",
+      "subtitle": "Vous êtes en train de lâcher une tempête de pets ! Heureusement que nous sommes dehors !"
+     },
+     {
+      "file": "VO/122680/audio/1.ogg",
+      "subtitle": "Tant que nous sommes dehors, lâchez autant de pets que vous voulez !"
+     },
+     {
+      "file": "VO/122680/audio/2.ogg",
+      "subtitle": "Si vous allez créer des nuages de pets, je préfère que ce soit ici dehors."
+     },
+     {
+      "file": "VO/122680/audio/3.ogg",
+      "subtitle": "Vos pets contribuent au réchauffement climatique."
+     },
+     {
+      "file": "VO/122680/audio/4.ogg",
+      "subtitle": "Si vous pensez que des nuages de pets feront office de lance-fusées, détrompez-vous."
+     },
+     {
+      "file": "VO/122680/audio/5.ogg",
+      "subtitle": "Les amis, si vous devez utiliser les toilettes extérieures, demandez juste, d’accord ?!"
+     }
+    ]
+   },
+   "id": "122680",
+   "name": "FART_REACTION_OUTSIDE"
   }
  ]
 }
