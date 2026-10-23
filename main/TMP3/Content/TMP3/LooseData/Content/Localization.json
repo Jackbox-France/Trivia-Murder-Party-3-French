@@ -20,7 +20,7 @@
     {
      "textKey": "TUT_ARCHERY_2",
      "value": [
-      "Si une flèche vous touche, vous perdez."
+      "Si une flèche vous touche, vous perdez !"
      ]
     },
     {
@@ -56,7 +56,7 @@
     {
      "textKey": "TUT_CHALICES_2",
      "value": [
-      "Si votre boisson contient du poison, vous mourez."
+      "Si votre boisson contient du poison, vous mourez !"
      ]
     },
     {
@@ -74,7 +74,7 @@
     {
      "textKey": "TUT_CHALICES_SAFE_2",
      "value": [
-      "Si votre boisson contient du poison, vous mourez."
+      "Si votre boisson contient du poison, vous mourez !"
      ]
     },
     {
@@ -182,7 +182,7 @@
     {
      "textKey": "TUT_KILLERCAM_3",
      "value": [
-      "Si ma tronçonneuse vous touche, vous perdez."
+      "Si ma tronçonneuse vous touche, vous perdez !"
      ]
     },
     {
@@ -200,7 +200,7 @@
     {
      "textKey": "TUT_MATH_2",
      "value": [
-      "Si votre score est le plus bas, vous perdez."
+      "Si votre score est le plus bas, vous mourez !"
      ]
     },
     {
@@ -218,7 +218,7 @@
     {
      "textKey": "TUT_MATH_SAFE_2",
      "value": [
-      "Si un joueur en sécurité obtient un meilleur score que vous, vous perdez."
+      "Si un joueur en sécurité obtient un meilleur score que vous, vous mourez !"
      ]
     },
     {
@@ -254,7 +254,7 @@
     {
      "textKey": "TUT_POURING_0",
      "value": [
-      "On vous présentera un coupe d'offrande contenant une certaine quantité de sang."
+      "On vous présentera une coupe d'offrande contenant une certaine quantité de sang."
      ]
     },
     {
@@ -387,6 +387,12 @@
      "textKey": "TUT_PUPPETS_SAFE_2",
      "value": [
       "Si un joueur en sécurité obtient un meilleur score que vous, vous mourez !"
+      ]
+    },
+    {
+     "textKey": "TUT_POURING_SAFE_0",
+     "value": [
+      "On vous présentera une coupe d'offrande contenant une certaine quantité de sang."
      ]
     }
    ]
